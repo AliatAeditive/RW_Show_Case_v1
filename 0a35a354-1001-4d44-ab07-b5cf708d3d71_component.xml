@@ -1,0 +1,143 @@
+<chunk name="Object" index="0">
+  <items count="2">
+    <item name="GUID" type_name="gh_guid" type_code="9">60e7defa-8b21-4ee1-99aa-a9223d6134ff</item>
+    <item name="Name" type_name="gh_string" type_code="10">Mesh Brep</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="5">
+        <item name="Description" type_name="gh_string" type_code="10">Create a mesh that approximates Brep geometry</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">0a35a354-1001-4d44-ab07-b5cf708d3d71</item>
+        <item name="Name" type_name="gh_string" type_code="10">Mesh Brep</item>
+        <item name="NickName" type_name="gh_string" type_code="10">Mesh</item>
+      </items>
+      <chunks count="4">
+        <chunk name="Attributes">
+          <items count="2">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>21703</X>
+              <Y>10720</Y>
+              <W>67</W>
+              <H>44</H>
+            </item>
+            <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+              <X>21733</X>
+              <Y>10742</Y>
+            </item>
+          </items>
+        </chunk>
+        <chunk name="param_input" index="0">
+          <items count="8">
+            <item name="Description" type_name="gh_string" type_code="10">Brep geometry</item>
+            <item name="InstanceGuid" type_name="gh_guid" type_code="9">b30bd220-9160-4d12-b69a-fefd8a11ac59</item>
+            <item name="Name" type_name="gh_string" type_code="10">Brep</item>
+            <item name="NickName" type_name="gh_string" type_code="10">B</item>
+            <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">b181ee58-ba43-4125-bb55-4dd7c29fc6dc</item>
+            <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
+            <item name="WireDisplay" type_name="gh_int32" type_code="3">2</item>
+          </items>
+          <chunks count="1">
+            <chunk name="Attributes">
+              <items count="2">
+                <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                  <X>21705</X>
+                  <Y>10722</Y>
+                  <W>13</W>
+                  <H>20</H>
+                </item>
+                <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                  <X>21713</X>
+                  <Y>10732</Y>
+                </item>
+              </items>
+            </chunk>
+          </chunks>
+        </chunk>
+        <chunk name="param_input" index="1">
+          <items count="6">
+            <item name="Description" type_name="gh_string" type_code="10">Settings to be used by meshing algorithm</item>
+            <item name="InstanceGuid" type_name="gh_guid" type_code="9">e35ef948-fc59-472f-b05d-c7a3313895ac</item>
+            <item name="Name" type_name="gh_string" type_code="10">Settings</item>
+            <item name="NickName" type_name="gh_string" type_code="10">S</item>
+            <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+            <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+          </items>
+          <chunks count="2">
+            <chunk name="Attributes">
+              <items count="2">
+                <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                  <X>21705</X>
+                  <Y>10742</Y>
+                  <W>13</W>
+                  <H>20</H>
+                </item>
+                <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                  <X>21713</X>
+                  <Y>10752</Y>
+                </item>
+              </items>
+            </chunk>
+            <chunk name="PersistentData">
+              <items count="1">
+                <item name="Count" type_name="gh_int32" type_code="3">1</item>
+              </items>
+              <chunks count="1">
+                <chunk name="Branch" index="0">
+                  <items count="2">
+                    <item name="Count" type_name="gh_int32" type_code="3">1</item>
+                    <item name="Path" type_name="gh_string" type_code="10">{0}</item>
+                  </items>
+                  <chunks count="1">
+                    <chunk name="Item" index="0">
+                      <items count="11">
+                        <item name="GridMaxCount" type_name="gh_int32" type_code="3">0</item>
+                        <item name="GridMinCount" type_name="gh_int32" type_code="3">16</item>
+                        <item name="JaggedSeams" type_name="gh_bool" type_code="1">false</item>
+                        <item name="MaxEdgeLength" type_name="gh_double" type_code="6">0</item>
+                        <item name="MinEdgeLength" type_name="gh_double" type_code="6">0.0001</item>
+                        <item name="MinTolerance" type_name="gh_double" type_code="6">0</item>
+                        <item name="Refine" type_name="gh_bool" type_code="1">true</item>
+                        <item name="RefineAngle" type_name="gh_double" type_code="6">0</item>
+                        <item name="RelativeTolerance" type_name="gh_double" type_code="6">0.65</item>
+                        <item name="SimplePlanes" type_name="gh_bool" type_code="1">true</item>
+                        <item name="Tolerance" type_name="gh_double" type_code="6">0</item>
+                      </items>
+                    </chunk>
+                  </chunks>
+                </chunk>
+              </chunks>
+            </chunk>
+          </chunks>
+        </chunk>
+        <chunk name="param_output" index="0">
+          <items count="6">
+            <item name="Description" type_name="gh_string" type_code="10">Mesh approximation</item>
+            <item name="InstanceGuid" type_name="gh_guid" type_code="9">6530a1d5-b407-4d3a-9195-402cdd0bb121</item>
+            <item name="Name" type_name="gh_string" type_code="10">Mesh</item>
+            <item name="NickName" type_name="gh_string" type_code="10">M</item>
+            <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+            <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+          </items>
+          <chunks count="1">
+            <chunk name="Attributes">
+              <items count="2">
+                <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                  <X>21748</X>
+                  <Y>10722</Y>
+                  <W>20</W>
+                  <H>40</H>
+                </item>
+                <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                  <X>21758</X>
+                  <Y>10742</Y>
+                </item>
+              </items>
+            </chunk>
+          </chunks>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>

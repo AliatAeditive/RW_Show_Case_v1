@@ -1,0 +1,90 @@
+<chunk name="Object" index="0">
+  <items count="3">
+    <item name="GUID" type_name="gh_guid" type_code="9">77bc4997-7b7e-4d43-82e4-01a16c0f433d</item>
+    <item name="Lib" type_name="gh_guid" type_code="9">d45b0aa7-fa27-4b91-3a40-b9f60d192781</item>
+    <item name="Name" type_name="gh_string" type_code="10">Construct Robot Constrain</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="5">
+        <item name="Description" type_name="gh_string" type_code="10">Create a robot configuration constrain by combining different axis rotation constrains. </item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">64122876-bd2d-45da-aa21-c17ea21c0a38</item>
+        <item name="Name" type_name="gh_string" type_code="10">Construct Robot Constrain</item>
+        <item name="NickName" type_name="gh_string" type_code="10">C.R.C.</item>
+      </items>
+      <chunks count="3">
+        <chunk name="Attributes">
+          <items count="2">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>14310</X>
+              <Y>588</Y>
+              <W>109</W>
+              <H>28</H>
+            </item>
+            <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+              <X>14376</X>
+              <Y>602</Y>
+            </item>
+          </items>
+        </chunk>
+        <chunk name="param_input" index="0">
+          <items count="10">
+            <item name="Access" type_name="gh_int32" type_code="3">1</item>
+            <item name="Description" type_name="gh_string" type_code="10">Represent a single axis rotation constrain.</item>
+            <item name="InstanceGuid" type_name="gh_guid" type_code="9">2e7b78bd-8ef8-460b-9146-3c763ea38636</item>
+            <item name="Mapping" type_name="gh_int32" type_code="3">1</item>
+            <item name="Name" type_name="gh_string" type_code="10">Axis Value Constrain</item>
+            <item name="NickName" type_name="gh_string" type_code="10">A.V.C</item>
+            <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">b2cc0406-fe31-42c4-a626-c489bbfaf218</item>
+            <item name="Source" index="1" type_name="gh_guid" type_code="9">f3eb30f9-d90e-4a26-a9dd-01c9d9a32c48</item>
+            <item name="SourceCount" type_name="gh_int32" type_code="3">2</item>
+          </items>
+          <chunks count="1">
+            <chunk name="Attributes">
+              <items count="2">
+                <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                  <X>14312</X>
+                  <Y>590</Y>
+                  <W>49</W>
+                  <H>24</H>
+                </item>
+                <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                  <X>14346</X>
+                  <Y>602</Y>
+                </item>
+              </items>
+            </chunk>
+          </chunks>
+        </chunk>
+        <chunk name="param_output" index="0">
+          <items count="6">
+            <item name="Description" type_name="gh_string" type_code="10">Create a robot configuration constrain by combining different axis rotation constrains. </item>
+            <item name="InstanceGuid" type_name="gh_guid" type_code="9">fb585938-5d76-497c-91cc-23d8c39f1c64</item>
+            <item name="Name" type_name="gh_string" type_code="10">Robot Constrain</item>
+            <item name="NickName" type_name="gh_string" type_code="10">R.C</item>
+            <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+            <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+          </items>
+          <chunks count="1">
+            <chunk name="Attributes">
+              <items count="2">
+                <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                  <X>14391</X>
+                  <Y>590</Y>
+                  <W>26</W>
+                  <H>24</H>
+                </item>
+                <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                  <X>14404</X>
+                  <Y>602</Y>
+                </item>
+              </items>
+            </chunk>
+          </chunks>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>

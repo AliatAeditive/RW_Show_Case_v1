@@ -1,0 +1,32 @@
+<chunk name="Object" index="0">
+  <items count="2">
+    <item name="GUID" type_name="gh_guid" type_code="9">c552a431-af5b-46a9-a8a4-0fcbc27ef596</item>
+    <item name="Name" type_name="gh_string" type_code="10">Group</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="15">
+        <item name="Border" type_name="gh_int32" type_code="3">1</item>
+        <item name="Colour" type_name="gh_drawing_color" type_code="36">
+          <ARGB>150;240;252;0</ARGB>
+        </item>
+        <item name="Description" type_name="gh_string" type_code="10">A group of Grasshopper objects</item>
+        <item name="ID" index="0" type_name="gh_guid" type_code="9">5a2821a9-f101-4fdd-938d-00e660ec528f</item>
+        <item name="ID" index="1" type_name="gh_guid" type_code="9">2b14763a-2b09-40e7-bfb4-0bd8ffe685ef</item>
+        <item name="ID" index="2" type_name="gh_guid" type_code="9">b38bca4f-c3a9-4991-bb07-eb8d37d6d458</item>
+        <item name="ID" index="3" type_name="gh_guid" type_code="9">d5058016-8e3c-4c96-b76b-b3ccf680a155</item>
+        <item name="ID" index="4" type_name="gh_guid" type_code="9">0a43135a-0550-48d0-a6e7-2f7b311d4f18</item>
+        <item name="ID" index="5" type_name="gh_guid" type_code="9">daa0db53-6c70-44ae-9301-458a1b1ca343</item>
+        <item name="ID" index="6" type_name="gh_guid" type_code="9">5d7680ca-d262-4f20-b69e-ce89e0f162d8</item>
+        <item name="ID" index="7" type_name="gh_guid" type_code="9">285741aa-4b06-45d2-a3a8-e5e394d56194</item>
+        <item name="ID_Count" type_name="gh_int32" type_code="3">8</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">7b98c39f-77bb-4aa7-9db6-2217f951fb57</item>
+        <item name="Name" type_name="gh_string" type_code="10">Group</item>
+        <item name="NickName" type_name="gh_string" type_code="10">palette is moved up for smoothing</item>
+      </items>
+      <chunks count="1">
+        <chunk name="Attributes" />
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>

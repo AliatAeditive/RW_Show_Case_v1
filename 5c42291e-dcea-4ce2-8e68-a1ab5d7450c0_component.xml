@@ -1,0 +1,189 @@
+<chunk name="Object" index="0">
+  <items count="2">
+    <item name="GUID" type_name="gh_guid" type_code="9">2844fec5-142d-4381-bd5d-4cbcef6d6fed</item>
+    <item name="Name" type_name="gh_string" type_code="10">Sketch</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="5">
+        <item name="Description" type_name="gh_string" type_code="10">A series of doodles</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">5c42291e-dcea-4ce2-8e68-a1ab5d7450c0</item>
+        <item name="MarkCount" type_name="gh_int32" type_code="3">1</item>
+        <item name="Name" type_name="gh_string" type_code="10">Sketch</item>
+        <item name="NickName" type_name="gh_string" type_code="10">Sketch</item>
+      </items>
+      <chunks count="2">
+        <chunk name="Attributes">
+          <items count="1">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>8461</X>
+              <Y>8645</Y>
+              <W>391.3066</W>
+              <H>15.60547</H>
+            </item>
+          </items>
+          <chunks count="1">
+            <chunk name="SketchProperties">
+              <items count="3">
+                <item name="Color" type_name="gh_drawing_color" type_code="36">
+                  <ARGB>255;242;19;19</ARGB>
+                </item>
+                <item name="Pattern" type_name="gh_int32" type_code="3">0</item>
+                <item name="Width" type_name="gh_single" type_code="5">3</item>
+              </items>
+            </chunk>
+          </chunks>
+        </chunk>
+        <chunk name="Mark" index="0">
+          <items count="37">
+            <item name="V" index="0" type_name="gh_point2d" type_code="50">
+              <X>8461</X>
+              <Y>8653.091796875</Y>
+            </item>
+            <item name="V" index="1" type_name="gh_point2d" type_code="50">
+              <X>8469.0927734375</X>
+              <Y>8653.669921875</Y>
+            </item>
+            <item name="V" index="2" type_name="gh_point2d" type_code="50">
+              <X>8477.1845703125</X>
+              <Y>8653.669921875</Y>
+            </item>
+            <item name="V" index="3" type_name="gh_point2d" type_code="50">
+              <X>8480.65234375</X>
+              <Y>8653.669921875</Y>
+            </item>
+            <item name="V" index="4" type_name="gh_point2d" type_code="50">
+              <X>8485.8544921875</X>
+              <Y>8654.248046875</Y>
+            </item>
+            <item name="V" index="5" type_name="gh_point2d" type_code="50">
+              <X>8493.3681640625</X>
+              <Y>8654.8251953125</Y>
+            </item>
+            <item name="V" index="6" type_name="gh_point2d" type_code="50">
+              <X>8507.818359375</X>
+              <Y>8655.4033203125</Y>
+            </item>
+            <item name="V" index="7" type_name="gh_point2d" type_code="50">
+              <X>8515.33203125</X>
+              <Y>8655.4033203125</Y>
+            </item>
+            <item name="V" index="8" type_name="gh_point2d" type_code="50">
+              <X>8517.64453125</X>
+              <Y>8655.4033203125</Y>
+            </item>
+            <item name="V" index="9" type_name="gh_point2d" type_code="50">
+              <X>8519.9560546875</X>
+              <Y>8655.4033203125</Y>
+            </item>
+            <item name="V" index="10" type_name="gh_point2d" type_code="50">
+              <X>8547.1220703125</X>
+              <Y>8656.5595703125</Y>
+            </item>
+            <item name="V" index="11" type_name="gh_point2d" type_code="50">
+              <X>8598.564453125</X>
+              <Y>8658.8720703125</Y>
+            </item>
+            <item name="V" index="12" type_name="gh_point2d" type_code="50">
+              <X>8615.904296875</X>
+              <Y>8657.7158203125</Y>
+            </item>
+            <item name="V" index="13" type_name="gh_point2d" type_code="50">
+              <X>8618.216796875</X>
+              <Y>8657.7158203125</Y>
+            </item>
+            <item name="V" index="14" type_name="gh_point2d" type_code="50">
+              <X>8622.2626953125</X>
+              <Y>8657.7158203125</Y>
+            </item>
+            <item name="V" index="15" type_name="gh_point2d" type_code="50">
+              <X>8642.4921875</X>
+              <Y>8657.7158203125</Y>
+            </item>
+            <item name="V" index="16" type_name="gh_point2d" type_code="50">
+              <X>8659.25390625</X>
+              <Y>8657.7158203125</Y>
+            </item>
+            <item name="V" index="17" type_name="gh_point2d" type_code="50">
+              <X>8674.2822265625</X>
+              <Y>8657.1376953125</Y>
+            </item>
+            <item name="V" index="18" type_name="gh_point2d" type_code="50">
+              <X>8686.998046875</X>
+              <Y>8657.1376953125</Y>
+            </item>
+            <item name="V" index="19" type_name="gh_point2d" type_code="50">
+              <X>8691.0439453125</X>
+              <Y>8657.1376953125</Y>
+            </item>
+            <item name="V" index="20" type_name="gh_point2d" type_code="50">
+              <X>8696.24609375</X>
+              <Y>8657.7158203125</Y>
+            </item>
+            <item name="V" index="21" type_name="gh_point2d" type_code="50">
+              <X>8711.8525390625</X>
+              <Y>8659.44921875</Y>
+            </item>
+            <item name="V" index="22" type_name="gh_point2d" type_code="50">
+              <X>8721.6787109375</X>
+              <Y>8660.60546875</Y>
+            </item>
+            <item name="V" index="23" type_name="gh_point2d" type_code="50">
+              <X>8726.302734375</X>
+              <Y>8660.60546875</Y>
+            </item>
+            <item name="V" index="24" type_name="gh_point2d" type_code="50">
+              <X>8734.39453125</X>
+              <Y>8660.60546875</Y>
+            </item>
+            <item name="V" index="25" type_name="gh_point2d" type_code="50">
+              <X>8765.0283203125</X>
+              <Y>8659.44921875</Y>
+            </item>
+            <item name="V" index="26" type_name="gh_point2d" type_code="50">
+              <X>8784.1025390625</X>
+              <Y>8657.1376953125</Y>
+            </item>
+            <item name="V" index="27" type_name="gh_point2d" type_code="50">
+              <X>8791.0380859375</X>
+              <Y>8654.8251953125</Y>
+            </item>
+            <item name="V" index="28" type_name="gh_point2d" type_code="50">
+              <X>8793.3505859375</X>
+              <Y>8653.669921875</Y>
+            </item>
+            <item name="V" index="29" type_name="gh_point2d" type_code="50">
+              <X>8795.662109375</X>
+              <Y>8653.091796875</Y>
+            </item>
+            <item name="V" index="30" type_name="gh_point2d" type_code="50">
+              <X>8800.2861328125</X>
+              <Y>8651.935546875</Y>
+            </item>
+            <item name="V" index="31" type_name="gh_point2d" type_code="50">
+              <X>8802.5986328125</X>
+              <Y>8650.779296875</Y>
+            </item>
+            <item name="V" index="32" type_name="gh_point2d" type_code="50">
+              <X>8806.64453125</X>
+              <Y>8649.6240234375</Y>
+            </item>
+            <item name="V" index="33" type_name="gh_point2d" type_code="50">
+              <X>8815.314453125</X>
+              <Y>8649.0458984375</Y>
+            </item>
+            <item name="V" index="34" type_name="gh_point2d" type_code="50">
+              <X>8833.232421875</X>
+              <Y>8647.8896484375</Y>
+            </item>
+            <item name="V" index="35" type_name="gh_point2d" type_code="50">
+              <X>8852.306640625</X>
+              <Y>8645</Y>
+            </item>
+            <item name="VertexCount" type_name="gh_int32" type_code="3">36</item>
+          </items>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>
