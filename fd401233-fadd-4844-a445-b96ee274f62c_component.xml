@@ -5,9 +5,10 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="5">
+      <items count="6">
         <item name="BaseOutputIndex" type_name="gh_int32" type_code="3">0</item>
         <item name="Description" type_name="gh_string" type_code="10">Retrieve a specific item from a list.</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">fd401233-fadd-4844-a445-b96ee274f62c</item>
         <item name="Name" type_name="gh_string" type_code="10">List Item</item>
         <item name="NickName" type_name="gh_string" type_code="10">Item</item>

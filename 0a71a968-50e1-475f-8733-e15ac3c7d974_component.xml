@@ -6,8 +6,9 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="8">
+      <items count="9">
         <item name="Description" type_name="gh_string" type_code="10">A face with set of constrains for smoothing operation</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">0a71a968-50e1-475f-8733-e15ac3c7d974</item>
         <item name="Mapping" type_name="gh_int32" type_code="3">1</item>
         <item name="Name" type_name="gh_string" type_code="10">Smoothing Face</item>

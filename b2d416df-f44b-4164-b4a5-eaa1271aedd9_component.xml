@@ -6,8 +6,9 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="4">
+      <items count="5">
         <item name="Description" type_name="gh_string" type_code="10">Represent a single axis value</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">b2d416df-f44b-4164-b4a5-eaa1271aedd9</item>
         <item name="Name" type_name="gh_string" type_code="10">Axis Value</item>
         <item name="NickName" type_name="gh_string" type_code="10">AxsVal.</item>

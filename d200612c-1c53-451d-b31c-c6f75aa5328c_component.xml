@@ -5,8 +5,9 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="4">
+      <items count="5">
         <item name="Description" type_name="gh_string" type_code="10">Unit vector parallel to the world {y} axis.</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">d200612c-1c53-451d-b31c-c6f75aa5328c</item>
         <item name="Name" type_name="gh_string" type_code="10">Unit Y</item>
         <item name="NickName" type_name="gh_string" type_code="10">Y</item>

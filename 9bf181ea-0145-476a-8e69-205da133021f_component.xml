@@ -14,7 +14,7 @@
         <item name="Name" type_name="gh_string" type_code="10">Smoothing Face</item>
         <item name="NickName" type_name="gh_string" type_code="10">SF</item>
         <item name="Optional" type_name="gh_bool" type_code="1">false</item>
-        <item name="Source" index="0" type_name="gh_guid" type_code="9">c97ee858-7bcb-4a99-8be8-008e597c8122</item>
+        <item name="Source" index="0" type_name="gh_guid" type_code="9">d2adac3b-dcf3-42ba-bfc2-7358161aa0fb</item>
         <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
       </items>
       <chunks count="1">

@@ -6,8 +6,9 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="5">
+      <items count="6">
         <item name="Description" type_name="gh_string" type_code="10">Converts the KRL file (.src) to list of KUKA|prc commands</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">98e77ffd-c000-4971-b880-6848bbf5350a</item>
         <item name="Name" type_name="gh_string" type_code="10">KRL to KUKA|prc</item>
         <item name="NickName" type_name="gh_string" type_code="10">KRL to PRC</item>

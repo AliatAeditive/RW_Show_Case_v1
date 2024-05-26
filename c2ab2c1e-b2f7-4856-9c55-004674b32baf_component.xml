@@ -75,7 +75,7 @@
                 <item name="Name" type_name="gh_string" type_code="10">Data 2</item>
                 <item name="NickName" type_name="gh_string" type_code="10">D2</item>
                 <item name="Optional" type_name="gh_bool" type_code="1">true</item>
-                <item name="Source" index="0" type_name="gh_guid" type_code="9">ff6f5083-6835-480e-9fa3-62b9b32336d4</item>
+                <item name="Source" index="0" type_name="gh_guid" type_code="9">c6e03a0b-c0d3-4fed-86b8-52555d21de87</item>
                 <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
               </items>
               <chunks count="1">

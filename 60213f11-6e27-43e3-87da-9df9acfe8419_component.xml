@@ -6,11 +6,10 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="10">
+      <items count="9">
         <item name="Description" type_name="gh_string" type_code="10">Attempt to smooth the printed object by removing material in parallel passes.</item>
         <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">60213f11-6e27-43e3-87da-9df9acfe8419</item>
-        <item name="Locked" type_name="gh_bool" type_code="1">true</item>
         <item name="Name" type_name="gh_string" type_code="10">Parallel Smoothing</item>
         <item name="NickName" type_name="gh_string" type_code="10">PS</item>
         <item name="Settings" type_name="gh_bool" type_code="1">true</item>
@@ -25,7 +24,7 @@
               <X>17239</X>
               <Y>10394</Y>
               <W>128</W>
-              <H>135</H>
+              <H>138</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
               <X>17316</X>
@@ -34,10 +33,9 @@
           </items>
         </chunk>
         <chunk name="param_input" index="0">
-          <items count="8">
+          <items count="7">
             <item name="Description" type_name="gh_string" type_code="10">Holds the information used to approximate the cuves.</item>
             <item name="InstanceGuid" type_name="gh_guid" type_code="9">fa48f738-55cf-48e6-b407-00d9fc295f26</item>
-            <item name="Locked" type_name="gh_bool" type_code="1">true</item>
             <item name="Name" type_name="gh_string" type_code="10">Approximation Settings</item>
             <item name="NickName" type_name="gh_string" type_code="10">Approx</item>
             <item name="Optional" type_name="gh_bool" type_code="1">false</item>
@@ -62,10 +60,9 @@
           </chunks>
         </chunk>
         <chunk name="param_input" index="1">
-          <items count="8">
+          <items count="7">
             <item name="Description" type_name="gh_string" type_code="10">The plane above the part which the tool can move without colliding with the part and other objects</item>
             <item name="InstanceGuid" type_name="gh_guid" type_code="9">c64b1363-9b15-456e-bebd-4f376e98a181</item>
-            <item name="Locked" type_name="gh_bool" type_code="1">true</item>
             <item name="Name" type_name="gh_string" type_code="10">Safe_Plane</item>
             <item name="NickName" type_name="gh_string" type_code="10">SP</item>
             <item name="Optional" type_name="gh_bool" type_code="1">false</item>
@@ -90,11 +87,10 @@
           </chunks>
         </chunk>
         <chunk name="param_input" index="2">
-          <items count="9">
+          <items count="8">
             <item name="Access" type_name="gh_int32" type_code="3">1</item>
             <item name="Description" type_name="gh_string" type_code="10">A face with set of constrains for smoothing operation</item>
             <item name="InstanceGuid" type_name="gh_guid" type_code="9">c6e909a1-8d47-49d9-86df-7129005d6baa</item>
-            <item name="Locked" type_name="gh_bool" type_code="1">true</item>
             <item name="Name" type_name="gh_string" type_code="10">Smoothing Face</item>
             <item name="NickName" type_name="gh_string" type_code="10">SF</item>
             <item name="Optional" type_name="gh_bool" type_code="1">false</item>
@@ -119,11 +115,10 @@
           </chunks>
         </chunk>
         <chunk name="param_input" index="3">
-          <items count="10">
+          <items count="9">
             <item name="Access" type_name="gh_int32" type_code="3">1</item>
             <item name="Description" type_name="gh_string" type_code="10">Defines the parameters for each layer of smoothing or cutting operation</item>
             <item name="InstanceGuid" type_name="gh_guid" type_code="9">6e439531-920a-418b-972b-1df37f0a975d</item>
-            <item name="Locked" type_name="gh_bool" type_code="1">true</item>
             <item name="Mapping" type_name="gh_int32" type_code="3">2</item>
             <item name="Name" type_name="gh_string" type_code="10">Smoothing parameters</item>
             <item name="NickName" type_name="gh_string" type_code="10">SP</item>
@@ -149,15 +144,14 @@
           </chunks>
         </chunk>
         <chunk name="param_input" index="4">
-          <items count="9">
+          <items count="8">
             <item name="Access" type_name="gh_int32" type_code="3">1</item>
             <item name="Description" type_name="gh_string" type_code="10">A solid object (closed polysurface) representing obstacle in the smoothing operation.</item>
             <item name="InstanceGuid" type_name="gh_guid" type_code="9">643d127b-28ac-4ab2-b991-1095d2561211</item>
-            <item name="Locked" type_name="gh_bool" type_code="1">true</item>
             <item name="Name" type_name="gh_string" type_code="10">Smoothing obstacle</item>
             <item name="NickName" type_name="gh_string" type_code="10">S.O.</item>
             <item name="Optional" type_name="gh_bool" type_code="1">true</item>
-            <item name="Source" index="0" type_name="gh_guid" type_code="9">135239d0-07fd-4750-aeb3-d8de2568898f</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">fb9a633a-d20e-413b-849b-9f809d4d448f</item>
             <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="1">
@@ -178,10 +172,9 @@
           </chunks>
         </chunk>
         <chunk name="param_output" index="0">
-          <items count="7">
+          <items count="6">
             <item name="Description" type_name="gh_string" type_code="10">A set of commands creating a tool path</item>
             <item name="InstanceGuid" type_name="gh_guid" type_code="9">61a12d7d-4a92-40fa-8ace-a8090ff5490c</item>
-            <item name="Locked" type_name="gh_bool" type_code="1">true</item>
             <item name="Name" type_name="gh_string" type_code="10">Command Group</item>
             <item name="NickName" type_name="gh_string" type_code="10">C</item>
             <item name="Optional" type_name="gh_bool" type_code="1">false</item>

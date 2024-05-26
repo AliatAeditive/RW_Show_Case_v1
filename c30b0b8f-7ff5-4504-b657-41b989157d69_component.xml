@@ -5,8 +5,9 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="4">
+      <items count="5">
         <item name="Description" type_name="gh_string" type_code="10">Merge a bunch of data streams</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">c30b0b8f-7ff5-4504-b657-41b989157d69</item>
         <item name="Name" type_name="gh_string" type_code="10">Merge</item>
         <item name="NickName" type_name="gh_string" type_code="10">Merge</item>

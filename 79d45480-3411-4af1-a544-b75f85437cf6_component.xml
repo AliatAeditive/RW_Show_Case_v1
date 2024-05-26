@@ -13,7 +13,7 @@
         <item name="Locked" type_name="gh_bool" type_code="1">true</item>
         <item name="Name" type_name="gh_string" type_code="10">Parallel Smoothing</item>
         <item name="NickName" type_name="gh_string" type_code="10">PS</item>
-        <item name="Settings" type_name="gh_bool" type_code="1">true</item>
+        <item name="Settings" type_name="gh_bool" type_code="1">false</item>
         <item name="Settings.Clean the mill" type_name="gh_bool" type_code="1">false</item>
         <item name="Settings.Safe move" type_name="gh_int32" type_code="3">0</item>
         <item name="Settings.Strategy" type_name="gh_int32" type_code="3">1</item>
@@ -25,7 +25,7 @@
               <X>17239</X>
               <Y>9315</Y>
               <W>128</W>
-              <H>135</H>
+              <H>267</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
               <X>17300</X>

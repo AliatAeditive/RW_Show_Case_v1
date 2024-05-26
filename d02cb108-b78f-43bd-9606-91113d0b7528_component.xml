@@ -280,7 +280,7 @@
             <item name="Name" type_name="gh_string" type_code="10">Dynamic collision objects</item>
             <item name="NickName" type_name="gh_string" type_code="10">D.C.O.</item>
             <item name="Optional" type_name="gh_bool" type_code="1">true</item>
-            <item name="Source" index="0" type_name="gh_guid" type_code="9">f538592f-d43e-44a4-82f2-00a3db645aa8</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">e98e7d31-3401-4d75-8e09-814f2c984a2e</item>
             <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="1">

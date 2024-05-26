@@ -1,0 +1,58 @@
+<chunk name="Object" index="0">
+  <items count="2">
+    <item name="GUID" type_name="gh_guid" type_code="9">919e146f-30ae-4aae-be34-4d72f555e7da</item>
+    <item name="Name" type_name="gh_string" type_code="10">Brep</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="7">
+        <item name="Description" type_name="gh_string" type_code="10">Contains a collection of Breps (Boundary REPresentations)</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">a9641674-1037-458f-aa52-7d1eb14529d6</item>
+        <item name="Name" type_name="gh_string" type_code="10">Brep</item>
+        <item name="NickName" type_name="gh_string" type_code="10">Brep</item>
+        <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+        <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+      </items>
+      <chunks count="2">
+        <chunk name="Attributes">
+          <items count="2">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>20002</X>
+              <Y>13288</Y>
+              <W>50</W>
+              <H>24</H>
+            </item>
+            <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+              <X>20027.29</X>
+              <Y>13300.25</Y>
+            </item>
+          </items>
+        </chunk>
+        <chunk name="PersistentData">
+          <items count="1">
+            <item name="Count" type_name="gh_int32" type_code="3">1</item>
+          </items>
+          <chunks count="1">
+            <chunk name="Branch" index="0">
+              <items count="2">
+                <item name="Count" type_name="gh_int32" type_code="3">1</item>
+                <item name="Path" type_name="gh_string" type_code="10">{0}</item>
+              </items>
+              <chunks count="1">
+                <chunk name="Item" index="0">
+                  <items count="2">
+                    <item name="ON_Data" type_name="gh_bytearray" type_code="20">
+                      <stream length="1614">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</stream>
+                    </item>
+                    <item name="RefID" type_name="gh_guid" type_code="9">00000000-0000-0000-0000-000000000000</item>
+                  </items>
+                </chunk>
+              </chunks>
+            </chunk>
+          </chunks>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>

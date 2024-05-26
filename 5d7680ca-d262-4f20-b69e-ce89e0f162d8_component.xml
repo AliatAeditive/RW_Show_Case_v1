@@ -12,7 +12,7 @@
         <item name="Name" type_name="gh_string" type_code="10">Relay</item>
         <item name="NickName" type_name="gh_string" type_code="10">palette for smoothing</item>
         <item name="Optional" type_name="gh_bool" type_code="1">false</item>
-        <item name="Source" index="0" type_name="gh_guid" type_code="9">2b14763a-2b09-40e7-bfb4-0bd8ffe685ef</item>
+        <item name="Source" index="0" type_name="gh_guid" type_code="9">2f350a2c-acfd-42fe-9ace-ff083f6e8a71</item>
         <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
       </items>
       <chunks count="1">

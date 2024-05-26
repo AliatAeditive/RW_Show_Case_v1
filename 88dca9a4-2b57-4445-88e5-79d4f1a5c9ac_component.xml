@@ -5,7 +5,7 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="11">
+      <items count="13">
         <item name="Border" type_name="gh_int32" type_code="3">1</item>
         <item name="Colour" type_name="gh_drawing_color" type_code="36">
           <ARGB>150;240;252;0</ARGB>
@@ -15,7 +15,9 @@
         <item name="ID" index="1" type_name="gh_guid" type_code="9">0d90c7de-e0dc-4280-be21-e79929cc002d</item>
         <item name="ID" index="2" type_name="gh_guid" type_code="9">9bf181ea-0145-476a-8e69-205da133021f</item>
         <item name="ID" index="3" type_name="gh_guid" type_code="9">c55cabe7-b876-4ea7-a082-00c1f8d9b543</item>
-        <item name="ID_Count" type_name="gh_int32" type_code="3">4</item>
+        <item name="ID" index="4" type_name="gh_guid" type_code="9">815debab-5343-4fe3-89f3-feb668d66a51</item>
+        <item name="ID" index="5" type_name="gh_guid" type_code="9">1e071138-0df4-4ff2-b869-552dd41640af</item>
+        <item name="ID_Count" type_name="gh_int32" type_code="3">6</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">88dca9a4-2b57-4445-88e5-79d4f1a5c9ac</item>
         <item name="Name" type_name="gh_string" type_code="10">Group</item>
         <item name="NickName" type_name="gh_string" type_code="10">sides</item>

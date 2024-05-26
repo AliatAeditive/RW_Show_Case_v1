@@ -44,9 +44,9 @@
                   <!--GH_Point only stores data which exists, test the existence of data fields prior to reading.-->
                   <items count="1">
                     <item name="Coordinate" type_name="gh_point3d" type_code="51">
-                      <X>560</X>
-                      <Y>-570</Y>
-                      <Z>190</Z>
+                      <X>820</X>
+                      <Y>-80</Y>
+                      <Z>0</Z>
                     </item>
                   </items>
                 </chunk>

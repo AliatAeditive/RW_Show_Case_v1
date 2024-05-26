@@ -6,8 +6,9 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="6">
+      <items count="7">
         <item name="Description" type_name="gh_string" type_code="10">Robot movement defined through axis values. The robot will move to the given axis position in the most efficient manner.</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">e6354206-162a-4c4c-a9a9-72b44c73acf9</item>
         <item name="Name" type_name="gh_string" type_code="10">AXIS Movement - KUKA|prc</item>
         <item name="NickName" type_name="gh_string" type_code="10">AXIS MOVE</item>

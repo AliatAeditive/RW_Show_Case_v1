@@ -8,13 +8,13 @@
     <chunk name="Container">
       <items count="8">
         <item name="Description" type_name="gh_string" type_code="10">KUKA|prc core component containing all core functionality such as simulation and code generation. Provide a slider from 0.0-1.0 for controlling the simulation, a series of robot commands as well as a robot definition. Optionally provide a tool definition and geometry for collision checking. Access the settings by right-clicking the component.</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">d3176d47-3252-4951-a72f-aa6fa2fa6c42</item>
-        <item name="Locked" type_name="gh_bool" type_code="1">true</item>
         <item name="Name" type_name="gh_string" type_code="10">KUKA|prc CORE</item>
         <item name="NickName" type_name="gh_string" type_code="10">KUKA|prc</item>
         <item name="PRC_BaseExpose" type_name="gh_bool" type_code="1">false</item>
         <item name="PRC_SaveNameExpose" type_name="gh_bool" type_code="1">true</item>
-        <item name="PRCsettings" type_name="gh_string" type_code="10">{"base_cart":{"x_val":0.0,"y_val":0.0,"z_val":0.0,"a_val":0.0,"b_val":0.0,"c_val":0.0,"index_val":2},"initialstatus":"ASAXIS","robot_startax":{"a01_val":-178.3,"a02_val":-118.4,"a03_val":137.1,"a04_val":89.9,"a05_val":89.0,"a06_val":132.4,"e01_val":0.0,"e02_val":0.0,"e03_val":0.0,"e04_val":0.0,"index_val":0},"robot_endax":{"a01_val":-178.3,"a02_val":-118.4,"a03_val":137.1,"a04_val":89.9,"a05_val":89.0,"a06_val":132.4,"e01_val":0.0,"e02_val":0.0,"e03_val":0.0,"e04_val":0.0,"index_val":0},"haltatend":false,"PTPstartspeed":25,"LINstartspeed":0.25,"hash":26640,"extrahash":-1990599436,"smoothsim":true,"checkallcolls":false,"dosave":true,"krlformatting":"&amp;ACCESS RVP\r\n&amp;REL 1\r\n&amp;PARAM TEMPLATE = C:\\KRC\\Roboter\\Template\\vorgabe\r\n&amp;PARAM EDITMASK = *\r\n[PROJECTNAME]\r\n\r\n[SPLITDEFS]\r\n\r\n;FOLD INI\r\n;FOLD BASISTECH INI\r\nGLOBAL INTERRUPT DECL 3 WHEN $STOPMESS==TRUE DO IR_STOPM ( )\r\nINTERRUPT ON 3\r\nBAS (#INITMOV,0 )\r\n;ENDFOLD (BASISTECH INI)\r\n;ENDFOLD (INI)\r\n\r\n$SR_VEL_RED=TRUE\r\n$SR_WORKSPACE_RED=TRUE\r\n[STARTAXPOS]\r\n\r\n[SETPARAMETERS]\r\n\r\n[COMMANDS]\r\nPTP {A1 -180, A2 -119, A3 140, A4 90, A5 90, A6 130, E1 0, E2 0, E3 0, E4 0} C_PTP\r\nSyncCmd(#ProgSync, \"rt10000\",3)\r\nEND","projectname":"R2_Program_03","savedir":"C:\\Users\\AliTorabi\\Desktop\\KRL","linvalmin":1200.0,"linvalmax":1800.0,"linvalideal":1500.0,"showallpos":false,"showendefficon":false,"showtoolpath":true,"outputanalysis":false,"speedslider":1.0,"int_cptp":30,"int_cdis":10.0,"int_cvel":10,"int_cori":1.0,"int_advance":3,"acc_cp":2.0,"acc_ptp":-1,"linax_asprev":true,"linax_fixed":false,"linax_dynamic":false,"linax_fixed_val":0.0,"rotax_asprev":true,"rotax_fixed":false,"rotax_dynamic":false,"rotax_fixed_val":0.0,"rotax_dynamic_x":0.0,"rotax_dynamic_y":0.0,"rotax_dynamic_z":0.0,"krlcompat":false,"splitfile":false,"splitlines":1000,"krlsavespace":false,"krlresetio":false,"krlusespl":false,"masscustom":false,"lininterpolation":true,"lininterpolationres":5.0,"krlon":true,"sunriseon":false,"camrobon":false,"cncon":false,"cncformatting":"[PROJECTNAME]\r\n\r\n[HEADER]\r\n\r\n[COMMANDS]\r\n\r\n[FOOTER]","cncexternalaxes":"Y1=,Y2=,Y3=,Y4=","camrobformatting":"&amp;ACCESS RVP\r\n&amp;REL 1\r\n&amp;PARAM TEMPLATE = C:\\KRC\\Roboter\\Template\\vorgabe\r\n&amp;PARAM EDITMASK = *\r\n[PROJECTNAME]\r\n\r\n[SPLITDEFS]\r\n\r\n;FOLD INI\r\n;FOLD BASISTECH INI\r\nGLOBAL INTERRUPT DECL 3 WHEN $STOPMESS==TRUE DO IR_STOPM ( )\r\nINTERRUPT ON 3\r\nBAS (#INITMOV,0 )\r\n;ENDFOLD (BASISTECH INI)\r\n;ENDFOLD (INI)\r\n\r\n[STARTAXPOS]\r\n\r\n[SETPARAMETERS]\r\n\r\n[COMMANDS]\r\n\r\nEND","configdat":"","overridecustompattern":false,"writetag":false,"asynccollision":false,"writefold":false,"hardcode":false,"useZtoolaxis":false,"uselowresrobot":true,"streamkrl":true,"relativegraph":false,"statictoolpath":false,"highlighterror":false,"usetimeblocks":false,"rt_active":false,"rt_thisrob":11,"rt_otherrob":10,"rt_fakeinvar":"VARIN","rt_fakeoutvar":"VAROUT","workbenchframes":false,"singularityCheckFactor":1.1}</item>
+        <item name="PRCsettings" type_name="gh_string" type_code="10">{"base_cart":{"x_val":0.0,"y_val":0.0,"z_val":0.0,"a_val":0.0,"b_val":0.0,"c_val":0.0,"index_val":2},"initialstatus":"ASAXIS","robot_startax":{"a01_val":-178.3,"a02_val":-118.4,"a03_val":137.1,"a04_val":89.9,"a05_val":89.0,"a06_val":132.4,"e01_val":0.0,"e02_val":0.0,"e03_val":0.0,"e04_val":0.0,"index_val":0},"robot_endax":{"a01_val":-178.3,"a02_val":-118.4,"a03_val":137.1,"a04_val":89.9,"a05_val":89.0,"a06_val":132.4,"e01_val":0.0,"e02_val":0.0,"e03_val":0.0,"e04_val":0.0,"index_val":0},"haltatend":false,"PTPstartspeed":25,"LINstartspeed":0.25,"hash":26640,"extrahash":-1990599430,"smoothsim":true,"checkallcolls":false,"dosave":true,"krlformatting":"&amp;ACCESS RVP\r\n&amp;REL 1\r\n&amp;PARAM TEMPLATE = C:\\KRC\\Roboter\\Template\\vorgabe\r\n&amp;PARAM EDITMASK = *\r\n[PROJECTNAME]\r\n\r\n[SPLITDEFS]\r\n\r\n;FOLD INI\r\n;FOLD BASISTECH INI\r\nGLOBAL INTERRUPT DECL 3 WHEN $STOPMESS==TRUE DO IR_STOPM ( )\r\nINTERRUPT ON 3\r\nBAS (#INITMOV,0 )\r\n;ENDFOLD (BASISTECH INI)\r\n;ENDFOLD (INI)\r\n\r\n$SR_VEL_RED=TRUE\r\n$SR_WORKSPACE_RED=TRUE\r\n[STARTAXPOS]\r\n\r\n[SETPARAMETERS]\r\n\r\n[COMMANDS]\r\nPTP {A1 -180, A2 -119, A3 140, A4 90, A5 90, A6 130, E1 0, E2 0, E3 0, E4 0} C_PTP\r\nSyncCmd(#ProgSync, \"rt10000\",3)\r\nEND","projectname":"R2_Program_05","savedir":"C:\\Users\\AliTorabi\\Desktop\\KRL","linvalmin":1200.0,"linvalmax":1800.0,"linvalideal":1500.0,"showallpos":false,"showendefficon":false,"showtoolpath":true,"outputanalysis":false,"speedslider":1.0,"int_cptp":30,"int_cdis":10.0,"int_cvel":10,"int_cori":1.0,"int_advance":3,"acc_cp":2.0,"acc_ptp":-1,"linax_asprev":true,"linax_fixed":false,"linax_dynamic":false,"linax_fixed_val":0.0,"rotax_asprev":true,"rotax_fixed":false,"rotax_dynamic":false,"rotax_fixed_val":0.0,"rotax_dynamic_x":0.0,"rotax_dynamic_y":0.0,"rotax_dynamic_z":0.0,"krlcompat":false,"splitfile":false,"splitlines":1000,"krlsavespace":false,"krlresetio":false,"krlusespl":false,"masscustom":false,"lininterpolation":true,"lininterpolationres":5.0,"krlon":true,"sunriseon":false,"camrobon":false,"cncon":false,"cncformatting":"[PROJECTNAME]\r\n\r\n[HEADER]\r\n\r\n[COMMANDS]\r\n\r\n[FOOTER]","cncexternalaxes":"Y1=,Y2=,Y3=,Y4=","camrobformatting":"&amp;ACCESS RVP\r\n&amp;REL 1\r\n&amp;PARAM TEMPLATE = C:\\KRC\\Roboter\\Template\\vorgabe\r\n&amp;PARAM EDITMASK = *\r\n[PROJECTNAME]\r\n\r\n[SPLITDEFS]\r\n\r\n;FOLD INI\r\n;FOLD BASISTECH INI\r\nGLOBAL INTERRUPT DECL 3 WHEN $STOPMESS==TRUE DO IR_STOPM ( )\r\nINTERRUPT ON 3\r\nBAS (#INITMOV,0 )\r\n;ENDFOLD (BASISTECH INI)\r\n;ENDFOLD (INI)\r\n\r\n[STARTAXPOS]\r\n\r\n[SETPARAMETERS]\r\n\r\n[COMMANDS]\r\n\r\nEND","configdat":"","overridecustompattern":false,"writetag":false,"asynccollision":false,"writefold":false,"hardcode":false,"useZtoolaxis":false,"uselowresrobot":true,"streamkrl":true,"relativegraph":false,"statictoolpath":false,"highlighterror":false,"usetimeblocks":false,"rt_active":false,"rt_thisrob":11,"rt_otherrob":10,"rt_fakeinvar":"VARIN","rt_fakeoutvar":"VAROUT","workbenchframes":false,"singularityCheckFactor":1.1}</item>
       </items>
       <chunks count="2">
         <chunk name="Attributes">
@@ -47,10 +47,9 @@
           </items>
           <chunks count="9">
             <chunk name="InputParam" index="0">
-              <items count="10">
+              <items count="9">
                 <item name="Description" type_name="gh_string" type_code="10">Number slider ranging from 0.0 to 1.0 for controlling the simulation position. The values are normalized in that range, taking the movement speed and calculated total time into account.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">1f304fbb-c9fd-4952-9ab5-fe58b49705b1</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Simulation Slider</item>
                 <item name="NickName" type_name="gh_string" type_code="10">SIM</item>
@@ -77,11 +76,10 @@
               </chunks>
             </chunk>
             <chunk name="InputParam" index="1">
-              <items count="10">
+              <items count="9">
                 <item name="Access" type_name="gh_int32" type_code="3">1</item>
                 <item name="Description" type_name="gh_string" type_code="10">A series of KUKA|prc Commands (e.g. LINear, PTP, AXIS movements) that define the robot's toolpath.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">4f95bced-f4c7-49fa-9206-a5e1c9f8e770</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">KUKA|prc Commands</item>
                 <item name="NickName" type_name="gh_string" type_code="10">CMDS</item>
@@ -107,10 +105,9 @@
               </chunks>
             </chunk>
             <chunk name="InputParam" index="2">
-              <items count="9">
+              <items count="8">
                 <item name="Description" type_name="gh_string" type_code="10">Optional. Tool definition providing the properties and geometry of the attached tool. If no tool is connected, the simulation will assume a tool number of 0 and 0,0,0,0,0,0 as XYZABC values.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">2336b40a-d63a-4d43-b79a-e22c9b42e62e</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Tool</item>
                 <item name="NickName" type_name="gh_string" type_code="10">TOOL</item>
@@ -136,10 +133,9 @@
               </chunks>
             </chunk>
             <chunk name="InputParam" index="3">
-              <items count="10">
+              <items count="9">
                 <item name="Description" type_name="gh_string" type_code="10">Robot definition providing the kinematic properties and geometry of the robot.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">bff34606-bbab-4b25-8010-bf3dc41364ee</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Robot</item>
                 <item name="NickName" type_name="gh_string" type_code="10">ROBOT</item>
@@ -166,11 +162,10 @@
               </chunks>
             </chunk>
             <chunk name="InputParam" index="4">
-              <items count="9">
+              <items count="8">
                 <item name="Access" type_name="gh_int32" type_code="3">1</item>
                 <item name="Description" type_name="gh_string" type_code="10">Optional. A series of meshes that define collision geometry. Enable collision checking in the KUKA|prc settings. Note that collision checking has got a large, negative impact on KUKA|prc performance.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">15b64254-684d-458c-a80f-253d20f34c02</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Collision Geometry</item>
                 <item name="NickName" type_name="gh_string" type_code="10">COLLISION</item>
@@ -195,10 +190,9 @@
               </chunks>
             </chunk>
             <chunk name="InputParam" index="5">
-              <items count="8">
+              <items count="7">
                 <item name="Description" type_name="gh_string" type_code="10">Attach a button, the file will be saved when the button is set to TRUE (clicked). This input can be enabled/disabled via the menu.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">864806fe-7c54-431f-82e9-7a10300a91e1</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Save Toggle</item>
                 <item name="NickName" type_name="gh_string" type_code="10">SAVE</item>
@@ -243,10 +237,9 @@
               </chunks>
             </chunk>
             <chunk name="InputParam" index="6">
-              <items count="9">
+              <items count="8">
                 <item name="Description" type_name="gh_string" type_code="10">The filename of the SRC file. This input can be enabled/disabled via the menu.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">73a115a6-a500-40da-9c42-4ad7bebc883a</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Filename</item>
                 <item name="NickName" type_name="gh_string" type_code="10">NAME</item>
@@ -293,11 +286,10 @@
               </chunks>
             </chunk>
             <chunk name="OutputParam" index="0">
-              <items count="8">
+              <items count="7">
                 <item name="Access" type_name="gh_int32" type_code="3">2</item>
                 <item name="Description" type_name="gh_string" type_code="10">A datatree containing geometry for visualization. Branch 0 contains meshes, branch 1 the relevant colors and branch 2 the curves. Bake it or connect it to a Custom Preview component e.g. for visualization and rendering.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">70e23520-ea38-4582-8eba-4338c1853683</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Name" type_name="gh_string" type_code="10">Robot Geometry</item>
                 <item name="NickName" type_name="gh_string" type_code="10">GEO</item>
                 <item name="Optional" type_name="gh_bool" type_code="1">false</item>
@@ -321,10 +313,9 @@
               </chunks>
             </chunk>
             <chunk name="OutputParam" index="1">
-              <items count="7">
+              <items count="6">
                 <item name="Description" type_name="gh_string" type_code="10">In-depth access to the simulation values is provided through the separate KUKA|prc Analysis component. Provided only to members of the Association for Robots in Architecture. Enable it via the Settings window.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">8372a6ac-e201-44fe-8615-cb0dcadceb6a</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Name" type_name="gh_string" type_code="10">Analysis Output</item>
                 <item name="NickName" type_name="gh_string" type_code="10">ANALYSIS</item>
                 <item name="Optional" type_name="gh_bool" type_code="1">false</item>

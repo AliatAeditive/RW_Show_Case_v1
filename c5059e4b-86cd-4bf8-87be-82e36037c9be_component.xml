@@ -15,7 +15,7 @@
         <item name="Settings" type_name="gh_bool" type_code="1">false</item>
         <item name="Settings.Contact Surface" type_name="gh_double" type_code="6">0.5</item>
         <item name="Settings.Face order" type_name="gh_int32" type_code="3">2</item>
-        <item name="Settings.Milling direction" type_name="gh_int32" type_code="3">1</item>
+        <item name="Settings.Milling direction" type_name="gh_int32" type_code="3">-1</item>
       </items>
       <chunks count="17">
         <chunk name="Attributes">
@@ -24,7 +24,7 @@
               <X>16220</X>
               <Y>10854</Y>
               <W>264</W>
-              <H>498</H>
+              <H>501</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
               <X>16291</X>
