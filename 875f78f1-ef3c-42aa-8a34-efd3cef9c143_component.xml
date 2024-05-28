@@ -6,11 +6,10 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="9">
+      <items count="8">
         <item name="Description" type_name="gh_string" type_code="10">KUKA|prc core component containing all core functionality such as simulation and code generation. Provide a slider from 0.0-1.0 for controlling the simulation, a series of robot commands as well as a robot definition. Optionally provide a tool definition and geometry for collision checking. Access the settings by right-clicking the component.</item>
         <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">875f78f1-ef3c-42aa-8a34-efd3cef9c143</item>
-        <item name="Locked" type_name="gh_bool" type_code="1">true</item>
         <item name="Name" type_name="gh_string" type_code="10">KUKA|prc CORE</item>
         <item name="NickName" type_name="gh_string" type_code="10">KUKA|prc</item>
         <item name="PRC_BaseExpose" type_name="gh_bool" type_code="1">false</item>
@@ -48,10 +47,9 @@
           </items>
           <chunks count="9">
             <chunk name="InputParam" index="0">
-              <items count="10">
+              <items count="9">
                 <item name="Description" type_name="gh_string" type_code="10">Number slider ranging from 0.0 to 1.0 for controlling the simulation position. The values are normalized in that range, taking the movement speed and calculated total time into account.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">4e8e7346-26cb-45fd-941b-36142b841fd5</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Simulation Slider</item>
                 <item name="NickName" type_name="gh_string" type_code="10">SIM</item>
@@ -78,16 +76,15 @@
               </chunks>
             </chunk>
             <chunk name="InputParam" index="1">
-              <items count="10">
+              <items count="9">
                 <item name="Access" type_name="gh_int32" type_code="3">1</item>
                 <item name="Description" type_name="gh_string" type_code="10">A series of KUKA|prc Commands (e.g. LINear, PTP, AXIS movements) that define the robot's toolpath.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">ec394830-48a2-48e6-89c2-c14630d83fdb</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">KUKA|prc Commands</item>
                 <item name="NickName" type_name="gh_string" type_code="10">CMDS</item>
                 <item name="Optional" type_name="gh_bool" type_code="1">false</item>
-                <item name="Source" index="0" type_name="gh_guid" type_code="9">370b1bdf-d46d-4d19-9a9a-32b8afaf30f4</item>
+                <item name="Source" index="0" type_name="gh_guid" type_code="9">36b4618a-28e3-4f4b-9205-47a60ffa7023</item>
                 <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
               </items>
               <chunks count="1">
@@ -108,10 +105,9 @@
               </chunks>
             </chunk>
             <chunk name="InputParam" index="2">
-              <items count="9">
+              <items count="8">
                 <item name="Description" type_name="gh_string" type_code="10">Optional. Tool definition providing the properties and geometry of the attached tool. If no tool is connected, the simulation will assume a tool number of 0 and 0,0,0,0,0,0 as XYZABC values.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">44655339-3d58-4355-aca0-76aa111a6223</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Tool</item>
                 <item name="NickName" type_name="gh_string" type_code="10">TOOL</item>
@@ -137,10 +133,9 @@
               </chunks>
             </chunk>
             <chunk name="InputParam" index="3">
-              <items count="9">
+              <items count="8">
                 <item name="Description" type_name="gh_string" type_code="10">Robot definition providing the kinematic properties and geometry of the robot.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">52d45c63-f151-45df-82b8-2d7b3beaddfa</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Robot</item>
                 <item name="NickName" type_name="gh_string" type_code="10">ROBOT</item>
@@ -166,11 +161,10 @@
               </chunks>
             </chunk>
             <chunk name="InputParam" index="4">
-              <items count="9">
+              <items count="8">
                 <item name="Access" type_name="gh_int32" type_code="3">1</item>
                 <item name="Description" type_name="gh_string" type_code="10">Optional. A series of meshes that define collision geometry. Enable collision checking in the KUKA|prc settings. Note that collision checking has got a large, negative impact on KUKA|prc performance.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">2d908005-0c39-44e5-ab39-53c5f7ebede6</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Collision Geometry</item>
                 <item name="NickName" type_name="gh_string" type_code="10">COLLISION</item>
@@ -195,10 +189,9 @@
               </chunks>
             </chunk>
             <chunk name="InputParam" index="5">
-              <items count="8">
+              <items count="7">
                 <item name="Description" type_name="gh_string" type_code="10">Attach a button, the file will be saved when the button is set to TRUE (clicked). This input can be enabled/disabled via the menu.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">25017592-5ff0-4f6e-b649-075a5d3bdb8a</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Save Toggle</item>
                 <item name="NickName" type_name="gh_string" type_code="10">SAVE</item>
@@ -243,10 +236,9 @@
               </chunks>
             </chunk>
             <chunk name="InputParam" index="6">
-              <items count="9">
+              <items count="8">
                 <item name="Description" type_name="gh_string" type_code="10">The filename of the SRC file. This input can be enabled/disabled via the menu.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">c119b1ef-e576-474e-b1f4-f2e87047ea0a</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Filename</item>
                 <item name="NickName" type_name="gh_string" type_code="10">NAME</item>
@@ -293,11 +285,10 @@
               </chunks>
             </chunk>
             <chunk name="OutputParam" index="0">
-              <items count="8">
+              <items count="7">
                 <item name="Access" type_name="gh_int32" type_code="3">2</item>
                 <item name="Description" type_name="gh_string" type_code="10">A datatree containing geometry for visualization. Branch 0 contains meshes, branch 1 the relevant colors and branch 2 the curves. Bake it or connect it to a Custom Preview component e.g. for visualization and rendering.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">41c70cc8-ec9e-47e2-9052-bc70c72fb709</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Name" type_name="gh_string" type_code="10">Robot Geometry</item>
                 <item name="NickName" type_name="gh_string" type_code="10">GEO</item>
                 <item name="Optional" type_name="gh_bool" type_code="1">false</item>
@@ -321,10 +312,9 @@
               </chunks>
             </chunk>
             <chunk name="OutputParam" index="1">
-              <items count="7">
+              <items count="6">
                 <item name="Description" type_name="gh_string" type_code="10">In-depth access to the simulation values is provided through the separate KUKA|prc Analysis component. Provided only to members of the Association for Robots in Architecture. Enable it via the Settings window.</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">5777fb7a-0497-4277-83ad-327f081acf78</item>
-                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Name" type_name="gh_string" type_code="10">Analysis Output</item>
                 <item name="NickName" type_name="gh_string" type_code="10">ANALYSIS</item>
                 <item name="Optional" type_name="gh_bool" type_code="1">false</item>

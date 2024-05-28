@@ -1,0 +1,86 @@
+<chunk name="Object" index="0">
+  <items count="2">
+    <item name="GUID" type_name="gh_guid" type_code="9">a4cd2751-414d-42ec-8916-476ebf62d7fe</item>
+    <item name="Name" type_name="gh_string" type_code="10">Radians</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="5">
+        <item name="Description" type_name="gh_string" type_code="10">Convert an angle specified in degrees to radians</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">f493d846-1d4d-4ad8-b8dc-fec378cb9367</item>
+        <item name="Name" type_name="gh_string" type_code="10">Radians</item>
+        <item name="NickName" type_name="gh_string" type_code="10">Rad</item>
+      </items>
+      <chunks count="3">
+        <chunk name="Attributes">
+          <items count="2">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>20297</X>
+              <Y>5485</Y>
+              <W>66</W>
+              <H>28</H>
+            </item>
+            <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+              <X>20329</X>
+              <Y>5499</Y>
+            </item>
+          </items>
+        </chunk>
+        <chunk name="param_input" index="0">
+          <items count="7">
+            <item name="Description" type_name="gh_string" type_code="10">Angle in degrees</item>
+            <item name="InstanceGuid" type_name="gh_guid" type_code="9">332855f1-c852-487d-96b9-9348be92aed8</item>
+            <item name="Name" type_name="gh_string" type_code="10">Degrees</item>
+            <item name="NickName" type_name="gh_string" type_code="10">D</item>
+            <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">9526ade3-bfa4-48ac-9f86-5f50da322c52</item>
+            <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
+          </items>
+          <chunks count="1">
+            <chunk name="Attributes">
+              <items count="2">
+                <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                  <X>20299</X>
+                  <Y>5487</Y>
+                  <W>15</W>
+                  <H>24</H>
+                </item>
+                <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                  <X>20308</X>
+                  <Y>5499</Y>
+                </item>
+              </items>
+            </chunk>
+          </chunks>
+        </chunk>
+        <chunk name="param_output" index="0">
+          <items count="6">
+            <item name="Description" type_name="gh_string" type_code="10">Angle in radians</item>
+            <item name="InstanceGuid" type_name="gh_guid" type_code="9">5461ae69-796c-487d-af62-2361b9dc826c</item>
+            <item name="Name" type_name="gh_string" type_code="10">Radians</item>
+            <item name="NickName" type_name="gh_string" type_code="10">R</item>
+            <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+            <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+          </items>
+          <chunks count="1">
+            <chunk name="Attributes">
+              <items count="2">
+                <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                  <X>20344</X>
+                  <Y>5487</Y>
+                  <W>17</W>
+                  <H>24</H>
+                </item>
+                <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                  <X>20352.5</X>
+                  <Y>5499</Y>
+                </item>
+              </items>
+            </chunk>
+          </chunks>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>

@@ -24,7 +24,7 @@
               <X>15648</X>
               <Y>13332</Y>
               <W>264</W>
-              <H>501</H>
+              <H>498</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
               <X>15719</X>
@@ -282,7 +282,7 @@
             <item name="Name" type_name="gh_string" type_code="10">Contact_Surface</item>
             <item name="NickName" type_name="gh_string" type_code="10">C.S.</item>
             <item name="Optional" type_name="gh_bool" type_code="1">false</item>
-            <item name="Source" index="0" type_name="gh_guid" type_code="9">ed864bbc-aba2-4264-884c-79b1cb2c7d6c</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">5bd9bb86-006c-4fde-b572-5880cf83b00d</item>
             <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="2">

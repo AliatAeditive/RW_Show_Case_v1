@@ -14,7 +14,7 @@
         <item name="NickName" type_name="gh_string" type_code="10">NOS.S.V4</item>
         <item name="Progress bar" type_name="gh_int32" type_code="3">1</item>
         <item name="Show_Original_Meshes" type_name="gh_bool" type_code="1">false</item>
-        <item name="Simulation" type_name="gh_double" type_code="6">0</item>
+        <item name="Simulation" type_name="gh_double" type_code="6">0.949355959892273</item>
         <item name="SimulationControls.nextcollision" type_name="gh_int32" type_code="3">0</item>
         <item name="SimulationControls.play" type_name="gh_int32" type_code="3">0</item>
         <item name="SimulationControls.previousCollsion" type_name="gh_int32" type_code="3">0</item>
@@ -254,7 +254,7 @@
             <item name="Name" type_name="gh_string" type_code="10">Solver Params</item>
             <item name="NickName" type_name="gh_string" type_code="10">So.Ps.</item>
             <item name="Optional" type_name="gh_bool" type_code="1">true</item>
-            <item name="Source" index="0" type_name="gh_guid" type_code="9">1843555e-72b5-4d5f-8707-f6caa124cd60</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">ebe2e201-447f-41dd-9109-0ddb71adff7d</item>
             <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="1">
@@ -282,7 +282,7 @@
             <item name="Name" type_name="gh_string" type_code="10">Dynamic collision objects</item>
             <item name="NickName" type_name="gh_string" type_code="10">D.C.O.</item>
             <item name="Optional" type_name="gh_bool" type_code="1">true</item>
-            <item name="Source" index="0" type_name="gh_guid" type_code="9">35aecc90-27b7-4972-81d5-c012aab39e1c</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">fd9bbe98-c899-499d-b25a-3914ff4f5985</item>
             <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="1">
@@ -311,7 +311,7 @@
             <item name="Name" type_name="gh_string" type_code="10">Turn-Table</item>
             <item name="NickName" type_name="gh_string" type_code="10">T.T.</item>
             <item name="Optional" type_name="gh_bool" type_code="1">true</item>
-            <item name="Source" index="0" type_name="gh_guid" type_code="9">2fce3fa6-b418-4889-b9a7-31bd6889ba40</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">6530a1d5-b407-4d3a-9195-402cdd0bb121</item>
             <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="1">

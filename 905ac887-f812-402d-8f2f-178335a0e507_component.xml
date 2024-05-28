@@ -276,7 +276,7 @@
                 <item name="Mapping" type_name="gh_int32" type_code="3">1</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Stream</item>
-                <item name="NickName" type_name="gh_string" type_code="10">S(4)</item>
+                <item name="NickName" type_name="gh_string" type_code="10">S(2)</item>
                 <item name="Optional" type_name="gh_bool" type_code="1">false</item>
                 <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
               </items>

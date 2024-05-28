@@ -24,7 +24,7 @@
               <X>17239</X>
               <Y>10394</Y>
               <W>128</W>
-              <H>138</H>
+              <H>135</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
               <X>17316</X>
@@ -151,7 +151,7 @@
             <item name="Name" type_name="gh_string" type_code="10">Smoothing obstacle</item>
             <item name="NickName" type_name="gh_string" type_code="10">S.O.</item>
             <item name="Optional" type_name="gh_bool" type_code="1">true</item>
-            <item name="Source" index="0" type_name="gh_guid" type_code="9">fb9a633a-d20e-413b-849b-9f809d4d448f</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">13e840f6-2886-41ae-9dbd-4c22bba1a7cb</item>
             <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="1">

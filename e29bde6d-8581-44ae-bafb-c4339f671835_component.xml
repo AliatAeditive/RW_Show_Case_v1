@@ -13,8 +13,8 @@
         <item name="Name" type_name="gh_string" type_code="10">Nos Simulation V.4</item>
         <item name="NickName" type_name="gh_string" type_code="10">NOS.S.V4</item>
         <item name="Progress bar" type_name="gh_int32" type_code="3">1</item>
-        <item name="Show_Original_Meshes" type_name="gh_bool" type_code="1">true</item>
-        <item name="Simulation" type_name="gh_double" type_code="6">0.9903070330619812</item>
+        <item name="Show_Original_Meshes" type_name="gh_bool" type_code="1">false</item>
+        <item name="Simulation" type_name="gh_double" type_code="6">0.7781185507774353</item>
         <item name="SimulationControls.nextcollision" type_name="gh_int32" type_code="3">0</item>
         <item name="SimulationControls.play" type_name="gh_int32" type_code="3">0</item>
         <item name="SimulationControls.previousCollsion" type_name="gh_int32" type_code="3">0</item>

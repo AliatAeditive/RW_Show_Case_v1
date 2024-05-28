@@ -102,13 +102,14 @@
           </chunks>
         </chunk>
         <chunk name="param_input" index="2">
-          <items count="6">
+          <items count="7">
             <item name="Description" type_name="gh_string" type_code="10">If possible orders the faces clockwise (if false then counter-clockwise) keeping the starting face close to the reference point if exist.</item>
             <item name="InstanceGuid" type_name="gh_guid" type_code="9">b80366b2-2dbc-4dfc-9b34-7a0ae7e59f1d</item>
             <item name="Name" type_name="gh_string" type_code="10">ClockWise</item>
             <item name="NickName" type_name="gh_string" type_code="10">C.W.</item>
             <item name="Optional" type_name="gh_bool" type_code="1">false</item>
-            <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">81f8eb9c-3f11-4106-980e-fe77e93e57e4</item>
+            <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="2">
             <chunk name="Attributes">

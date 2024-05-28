@@ -1,0 +1,58 @@
+<chunk name="Object" index="0">
+  <items count="2">
+    <item name="GUID" type_name="gh_guid" type_code="9">919e146f-30ae-4aae-be34-4d72f555e7da</item>
+    <item name="Name" type_name="gh_string" type_code="10">Brep</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="7">
+        <item name="Description" type_name="gh_string" type_code="10">Contains a collection of Breps (Boundary REPresentations)</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">27b9d709-b85f-42a8-b82b-fb66cdb9766a</item>
+        <item name="Name" type_name="gh_string" type_code="10">Brep</item>
+        <item name="NickName" type_name="gh_string" type_code="10">Brep</item>
+        <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+        <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+      </items>
+      <chunks count="2">
+        <chunk name="Attributes">
+          <items count="2">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>9415</X>
+              <Y>9644</Y>
+              <W>50</W>
+              <H>24</H>
+            </item>
+            <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+              <X>9440.95</X>
+              <Y>9656</Y>
+            </item>
+          </items>
+        </chunk>
+        <chunk name="PersistentData">
+          <items count="1">
+            <item name="Count" type_name="gh_int32" type_code="3">1</item>
+          </items>
+          <chunks count="1">
+            <chunk name="Branch" index="0">
+              <items count="2">
+                <item name="Count" type_name="gh_int32" type_code="3">1</item>
+                <item name="Path" type_name="gh_string" type_code="10">{0}</item>
+              </items>
+              <chunks count="1">
+                <chunk name="Item" index="0">
+                  <items count="2">
+                    <item name="ON_Data" type_name="gh_bytearray" type_code="20">
+                      <stream length="2901">7VsNUFTXFb7ssrALJoCgGPMH1CYWkQgUiBRdFBMqWieapIxJxBjdGEZhFcSWBqMVU9OJWjQaa2KV+FPjaMxPOxpnmqKMBpORVK0Rnf5YfxhLU0bspKM1UfvO23vg7tn7dlmRySPeb+by3v1773znnnPuD/tYCGPshga4AvpYtD9Fk14oKXPnu0tL3WUpCT92lVeUuMtGZKdmZKWmZ2R8Pys1LSsjMy0lIb9y9rzKcteIMlflvPJps1MSHqt8bnbJ9HGuqifcs1xlIzIz09MfTnMNz56enZmZmTHMBm+J1R+eWuByl7rmlVelji53zQnVysPne94TMa18+gsl810ZM0od7jmusrLK8ucqQmdMmzcNGtntdguIGP0gY+natd4R1cdh1W6i4E/ReMYsVxda2LjxHjpf3bCwOE4tv8HdnrzZ/uhvTm47duCz5KzB13fmfK3Vx/K26WwRyxsV68lED9D+gLjwtI+Y79Puinm3eGLk8Zj66yy6JiSpvXBgVTw87WVeH23hNxaevNHu9CnylNfTErFv7aqqkKbEWXm+z+usw3xO633NNxZaFmHedGQegD9183QyVHjMY5s/7VxTY2oy4shQ4SnhHXXRk0xNRhwZWkb7Fbe8GWZKMjgKx0+0vffPK7VSM8M6zJfvOlptSjIIcWSo8JjHNvveXtLflGRkI0OFpz70s0dOTDUlGYQsmlEy2PZQfk2mKcl0jILj3olJU1ZLzQzrMD86Mb3WlGQ6BIY/fGSo8JjHNqfm7tlmSjKykaHCUx96Jj5+rSnJIGTRjJLBto0Fq+pMSQZHwSNwndTMsA7zpXHZvWcFQIXHPLZJ29/+tCnJyEaGCk99aPG45weYkgxCFs0oGWz79w1vxZiSDI7CNbft57Ydm7q0n7k4MOekKckgiZENMxxTKrf73c+Ejl2QWPy9V/NWn3t3sinJIImZT1efqnpwhxcZFB7bY35D8ZHPTUkGSXjM7T0vM6NkEMt+EXXMlGSUzyif6SU+kzi+9TgcprkiuIB9BIZNQTBcgwytt5AhQjyy+cGozOxPDi7Ku7t05sSVTYv3Tb26InnL2Yq801tf+0nuiqU+5fancufIhs805MRlghEJWj56QUG/SaOW5K394XW7qcn5GzkkYURu26ar/zA1OXHkjMzSiPQvHxq0ypTkZEc+gczy2J4hdev2zMnD8uLjxa2mJIeQ+RwlQctx5CZszr9kSnJdGTnqc5TcpZRfV5mSnOxUxWjk0Odo+cNtQ6ymJIeQBZRA5HDkHjuwbpYpyXVl5JCEEbm1/dpeMyU52cFFoJGjUXS8O+RyryVHR44GmnNrG2eK5HKuV7tgwdkYxgUOExjfFeLLOP7QswXnBMY7Bq/4IzA+Y8S4p5YvCHTSUOY76xcHmPVpOC4OsL67/PvTf5OZhmkUJZtzZIoKljgNELQ9Nb9nl20pNbWiZFHQn6K6Spz6I7VA2n5+cuohUytKFnRkigqWeLCu2vTUWZtMUdeYr6JOH2+eUND655j6Fo+iKppPXgZFHeT1MUYv96+gQAoMVN/u5O/ZhyX04IYeExjVT9w69fUeUwZqvHtkA9W3O/l79gUiG6i+b//Uo6IyHJv2DoUpbTt3oWg7rzCa8NFt4BohiAj9jbZaVqFNqNDH3yLfyttDmzChj1Uim9jHwttECn1ksUmUDeptWgoX+tgkfcT32LhcDqFPGDNeQFn58+1Eb+GSPuJ77PwdIp9fLfuLHQathCtWP/iSQbQCVKbewU/bEN5WBMYufIaFtwlnvhD3ATSe4jtwoDDFMV+Iba2kTvyVkDjod/iRBwYZjY/O/GiYFn6NkciBbWHgbX7eYePPgWsk8wW2BWNBw5atRPA50KafH3lgDHAc6EQdyvvDc8CQ+grPoW3tvI2RrOH8OWCMUX54OVinU9B32ITngBP09yNPBOt0FDqvot7gOWD7saIcpC2MQaRBHciC9nOnluL9PGfG6dyXdKfjzqb/dJOChl10JDQsf6B9uwrqsKKzik6PRuUPRj+/CwTq7OLeA51TFs1luFk90ECBXMRylIEGFIqb1QMGGeqkocx79kN7oIGWSfoGKwMNUMjFxjpnOpTBZiAD7RusDBjcKJcw1hnYRHvoCT2IgRFAJzHRP9A+jXCzesCgSoMbyIXBmbFOe5D9t5X2DVYGMSADkIudvx91JE46RrhZPWAwp1wc/P1oh2gPPaEHcSIAiH6BviHaQ0/ooQ9PdHIB3YhxEe1BFqdo32BluIN5L5TEOMmEd6I9+IuVN6uHO3mSTda4UhbtoSf0EMW8FzKiX4SzzriE9tATeojmif7qAuvp+kG2hjDqa4Rj92Zs+OhKyw28wmIXEv2xhGzOsjG5DLRvsDLAwhQS/Y2DLE6GGchA+wYrAywiIdGfJsh8E3eNFLRvsDLARgiS7Fc4YkxCe5Ct57prD7DZgETHFOMyXT/IZOiuPcDGABIdUwfz3qmjPchk6K49wGYAEh3TSP5+MU7iiQBFd+3hcPaNv8Km4xNeH42GiMYnW8Cg06KB4CQvLnigDo8WwMAjybOgHiYqmCggUEfxeqvwbAhcEDjAcWOF92KQAEMGQ+rPFRnC6/61IS4GSP2PyxuDpGQrsBCSEOIKUpypURE0YovRTFx548rDyJJ7Co1vf77Zc9f1I2ZQ2i6+1w2BI8wczlA8wjxPjjCH7r37GTjCtPC2mcj+yJGPn0wd0ujUr7HNHVLcU/ti6J4lRzvydD9m9O1MQWrYmBWz+x+4r9/G/Atzc8e8ot2vjkgao4ntFFK9kLzKPN+HahTx/4H6qYfsOAowNP+eL85mDfTRnexoC7B0zIXCAUUnnJ7rbr2fbjdvrAO0Opn+bjxpEf1Eb3Zq+XDHkIymZZ0yWazDtOunKSn/ZYUa9Vc1uokadbxfqVE/r6kBy/EeyqHj0LbqiTiswkj7v0/QUtwU9wesYvLwkVAA1w+/u2xkxboPPXntCnkDLejI09LgA02HDRsYfVDk88WhprAtgsJk4/T8i9brnrtAh9+IW98O5MpNqliuXRakXdvo9c+AbrvR/GGJ7/xn+nnnkivFD014oK1DqEvZDQu2pF1wGm1jO84M+ck85s9odiK60ZE/vJz/7XejmqtfJzMjd4H7Jk0NWA736EZ7a6oLmYc/IvB9gpaGNzYcZnPTS/TCNfd/R79CftDy4U7IwxU7yFSXp6U3HUWugF8VB/qCshe60eKdB0NurRsh9Nnoq499ZiOj3b+/2ehTzU5uLzcamP1lETNyF5iZsBzv0Y3ipr5eyF+mu8mirtwnaH8Km76434uaPhudyvbMRtq1K7PR4/sztwX80DjQR5W90I227t2Ve2vdyLOoa3bqs1LReZ/ZyOjQxGg2Ehd1P9Lubw83evzMoFeYkbsYLfag4/tsegULZkEHSNDSln1xbWxNfZJOoWLyXt1lIA+zEOS7MhtVRf/uVMBvjwN9Z9kL3Sj5txuzesKNOvdG+iy0nu+JvrxouDdC96Hf5dC9EbjRIO3+W+pGVgsDb5h5Mf4dn72RODOJiz0sh45jlz75CDxskSfprhLwPkG7KWv4YJdnT9SizUKwR6pb6NT3RC18j6TlDbSgI09LT1xcWW3YgI4wlvt8idX73Oiz1py1Pbuou1VutEILt7fPom7/v3c/ysSZRpyNZPsknI1+urtupiBf1/ZICdrfYZOyPEMJbqPfgBvBYq6FL+6UG3m3E9zopaa+20U3yihaXws0Iry6bH6r4X3otL557Btia9lPhhQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBS+Yfwf</stream>
+                    </item>
+                    <item name="RefID" type_name="gh_guid" type_code="9">00000000-0000-0000-0000-000000000000</item>
+                  </items>
+                </chunk>
+              </chunks>
+            </chunk>
+          </chunks>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>

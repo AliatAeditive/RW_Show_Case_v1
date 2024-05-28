@@ -5,8 +5,9 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="4">
+      <items count="5">
         <item name="Description" type_name="gh_string" type_code="10">Create a numeric domain from two numeric extremes.</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">e174bf7c-2846-457d-b2a7-9915688e32eb</item>
         <item name="Name" type_name="gh_string" type_code="10">Construct Domain</item>
         <item name="NickName" type_name="gh_string" type_code="10">Dom</item>

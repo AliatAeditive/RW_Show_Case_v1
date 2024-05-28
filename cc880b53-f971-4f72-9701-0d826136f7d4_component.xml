@@ -6,8 +6,9 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="4">
+      <items count="5">
         <item name="Description" type_name="gh_string" type_code="10">Create an obstacle from a solid Brep for smoothing algorithm.</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">cc880b53-f971-4f72-9701-0d826136f7d4</item>
         <item name="Name" type_name="gh_string" type_code="10">Construct solid obstacle</item>
         <item name="NickName" type_name="gh_string" type_code="10">C.S.O.</item>

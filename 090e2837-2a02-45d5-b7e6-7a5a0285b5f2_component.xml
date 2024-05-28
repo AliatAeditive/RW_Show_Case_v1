@@ -15,7 +15,7 @@
         <item name="Settings" type_name="gh_bool" type_code="1">false</item>
         <item name="Settings.Contact Surface" type_name="gh_double" type_code="6">0.5</item>
         <item name="Settings.Face order" type_name="gh_int32" type_code="3">2</item>
-        <item name="Settings.Milling direction" type_name="gh_int32" type_code="3">1</item>
+        <item name="Settings.Milling direction" type_name="gh_int32" type_code="3">-1</item>
       </items>
       <chunks count="17">
         <chunk name="Attributes">
@@ -24,7 +24,7 @@
               <X>15648</X>
               <Y>13892</Y>
               <W>264</W>
-              <H>501</H>
+              <H>498</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
               <X>15719</X>
@@ -467,7 +467,7 @@
             <item name="Name" type_name="gh_string" type_code="10">Direction</item>
             <item name="NickName" type_name="gh_string" type_code="10">Dir</item>
             <item name="Optional" type_name="gh_bool" type_code="1">false</item>
-            <item name="Source" index="0" type_name="gh_guid" type_code="9">56ae048d-97c4-40c0-aa38-9cddc69cce0f</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">94e95c66-2fc7-4af0-9639-90d916ad0536</item>
             <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="2">
@@ -564,7 +564,7 @@
             <item name="Name" type_name="gh_string" type_code="10">Spindle</item>
             <item name="NickName" type_name="gh_string" type_code="10">Sp</item>
             <item name="Optional" type_name="gh_bool" type_code="1">true</item>
-            <item name="Source" index="0" type_name="gh_guid" type_code="9">fcb77c49-12a8-4554-8cac-3bb686ff05c8</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">3502abba-19e4-4b9a-b0d7-72dd00b82cb9</item>
             <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="1">

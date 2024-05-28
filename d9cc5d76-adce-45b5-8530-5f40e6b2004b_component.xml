@@ -268,13 +268,14 @@
           </chunks>
         </chunk>
         <chunk name="param_input" index="5">
-          <items count="6">
+          <items count="7">
             <item name="Description" type_name="gh_string" type_code="10">Speeds equal or higher than this speed are not taken into singularity checks</item>
             <item name="InstanceGuid" type_name="gh_guid" type_code="9">0db7cac5-51b0-4eb7-b931-da663c464c7d</item>
             <item name="Name" type_name="gh_string" type_code="10">TCP_speed</item>
             <item name="NickName" type_name="gh_string" type_code="10">T.C.P.S</item>
             <item name="Optional" type_name="gh_bool" type_code="1">false</item>
-            <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">e9f896b1-4f58-4319-a9b1-c602bbf245f1</item>
+            <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="2">
             <chunk name="Attributes">
@@ -347,7 +348,7 @@
             <item name="Name" type_name="gh_string" type_code="10">Method</item>
             <item name="NickName" type_name="gh_string" type_code="10">M.</item>
             <item name="Optional" type_name="gh_bool" type_code="1">false</item>
-            <item name="Source" index="0" type_name="gh_guid" type_code="9">a5be591a-8a8b-42fd-8887-5334bd7ec9f7</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">7118734d-a863-4b2a-bf0f-857120eac014</item>
             <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="2">
@@ -388,13 +389,14 @@
           </chunks>
         </chunk>
         <chunk name="param_input" index="8">
-          <items count="6">
+          <items count="7">
             <item name="Description" type_name="gh_string" type_code="10">number of minimum branches</item>
             <item name="InstanceGuid" type_name="gh_guid" type_code="9">c37917b8-aec7-48c2-a256-b72b9cfc9f95</item>
             <item name="Name" type_name="gh_string" type_code="10">Explore</item>
             <item name="NickName" type_name="gh_string" type_code="10">E.</item>
             <item name="Optional" type_name="gh_bool" type_code="1">false</item>
-            <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">3ada96f6-01cf-461c-9806-100eb6ff2de9</item>
+            <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="2">
             <chunk name="Attributes">
