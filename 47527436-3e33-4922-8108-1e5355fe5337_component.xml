@@ -17,9 +17,9 @@
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
               <X>20193</X>
-              <Y>5964</Y>
+              <Y>5961</Y>
               <W>67</W>
-              <H>44</H>
+              <H>50</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
               <X>20225</X>
@@ -42,13 +42,13 @@
               <items count="2">
                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                   <X>20195</X>
-                  <Y>5966</Y>
+                  <Y>5963</Y>
                   <W>15</W>
-                  <H>20</H>
+                  <H>23</H>
                 </item>
                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                   <X>20204</X>
-                  <Y>5976</Y>
+                  <Y>5974.5</Y>
                 </item>
               </items>
             </chunk>
@@ -71,11 +71,11 @@
                   <X>20195</X>
                   <Y>5986</Y>
                   <W>15</W>
-                  <H>20</H>
+                  <H>23</H>
                 </item>
                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                   <X>20204</X>
-                  <Y>5996</Y>
+                  <Y>5997.5</Y>
                 </item>
               </items>
             </chunk>
@@ -119,13 +119,13 @@
               <items count="2">
                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                   <X>20240</X>
-                  <Y>5966</Y>
+                  <Y>5963</Y>
                   <W>18</W>
-                  <H>20</H>
+                  <H>23</H>
                 </item>
                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                   <X>20249</X>
-                  <Y>5976</Y>
+                  <Y>5974.5</Y>
                 </item>
               </items>
             </chunk>
@@ -147,11 +147,11 @@
                   <X>20240</X>
                   <Y>5986</Y>
                   <W>18</W>
-                  <H>20</H>
+                  <H>23</H>
                 </item>
                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                   <X>20249</X>
-                  <Y>5996</Y>
+                  <Y>5997.5</Y>
                 </item>
               </items>
             </chunk>
