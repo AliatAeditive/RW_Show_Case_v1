@@ -8,25 +8,25 @@
       <items count="8">
         <item name="Access" type_name="gh_int32" type_code="3">2</item>
         <item name="Description" type_name="gh_string" type_code="10">A wire relay object</item>
-        <item name="InstanceGuid" type_name="gh_guid" type_code="9">0d28b0c3-d5bd-47a9-9746-5fbf5378c020</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">4ae5860f-a1ac-4ce9-abc3-8bb1ad0740fc</item>
         <item name="Name" type_name="gh_string" type_code="10">Relay</item>
-        <item name="NickName" type_name="gh_string" type_code="10"></item>
+        <item name="NickName" type_name="gh_string" type_code="10">ccw 175</item>
         <item name="Optional" type_name="gh_bool" type_code="1">false</item>
-        <item name="Source" index="0" type_name="gh_guid" type_code="9">8bc0df03-daa0-459e-8d15-092d1d7e4890</item>
+        <item name="Source" index="0" type_name="gh_guid" type_code="9">e23621cf-cfdb-4d58-ba1e-b4d5e5fdb284</item>
         <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
       </items>
       <chunks count="1">
         <chunk name="Attributes">
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-              <X>14659</X>
-              <Y>9990</Y>
-              <W>54</W>
+              <X>2296</X>
+              <Y>11032</Y>
+              <W>58</W>
               <H>16</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-              <X>14686</X>
-              <Y>9998</Y>
+              <X>2325</X>
+              <Y>11040</Y>
             </item>
           </items>
         </chunk>

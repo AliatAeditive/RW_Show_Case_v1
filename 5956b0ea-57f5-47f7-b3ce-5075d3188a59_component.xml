@@ -6,9 +6,8 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="5">
+      <items count="4">
         <item name="Description" type_name="gh_string" type_code="10">Create tool path from set of commands</item>
-        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">5956b0ea-57f5-47f7-b3ce-5075d3188a59</item>
         <item name="Name" type_name="gh_string" type_code="10">Tool Path</item>
         <item name="NickName" type_name="gh_string" type_code="10">TP</item>
@@ -186,7 +185,7 @@
             <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
             <item name="colorByVelocity" type_name="gh_bool" type_code="1">false</item>
             <item name="isInternalized" type_name="gh_bool" type_code="1">false</item>
-            <item name="showSpeed" type_name="gh_bool" type_code="1">false</item>
+            <item name="showSpeed" type_name="gh_bool" type_code="1">true</item>
             <item name="showStrips" type_name="gh_bool" type_code="1">true</item>
           </items>
           <chunks count="1">

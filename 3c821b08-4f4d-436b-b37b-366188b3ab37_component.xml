@@ -5,9 +5,8 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="8">
+      <items count="7">
         <item name="Description" type_name="gh_string" type_code="10">Contains a collection of generic geometry</item>
-        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">3c821b08-4f4d-436b-b37b-366188b3ab37</item>
         <item name="Name" type_name="gh_string" type_code="10">Geometry</item>
         <item name="NickName" type_name="gh_string" type_code="10">Geo</item>
@@ -20,9 +19,9 @@
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
               <X>1538</X>
-              <Y>413</Y>
+              <Y>411</Y>
               <W>50</W>
-              <H>20</H>
+              <H>24</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
               <X>1563.556</X>

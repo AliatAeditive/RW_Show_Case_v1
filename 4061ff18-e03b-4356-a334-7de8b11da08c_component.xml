@@ -34,7 +34,7 @@
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
               <X>186</X>
               <Y>480</Y>
-              <W>59</W>
+              <W>54</W>
               <H>22</H>
             </item>
           </items>
@@ -43,3 +43,4 @@
     </chunk>
   </chunks>
 </chunk>
+<!--selected_value:0-->
