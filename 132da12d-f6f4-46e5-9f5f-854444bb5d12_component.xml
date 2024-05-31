@@ -6,8 +6,9 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="12">
+      <items count="13">
         <item name="Description" type_name="gh_string" type_code="10">Generates the final KUKA commands and performs the simulation</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">132da12d-f6f4-46e5-9f5f-854444bb5d12</item>
         <item name="Name" type_name="gh_string" type_code="10">Nos Simulation V.4</item>
         <item name="NickName" type_name="gh_string" type_code="10">NOS.S.V4</item>

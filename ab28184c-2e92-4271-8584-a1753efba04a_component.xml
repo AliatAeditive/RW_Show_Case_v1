@@ -17,14 +17,14 @@
         <chunk name="Attributes">
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-              <X>27645</X>
-              <Y>5258</Y>
+              <X>27262</X>
+              <Y>4476</Y>
               <W>480</W>
               <H>20</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-              <X>27645.97</X>
-              <Y>5258.055</Y>
+              <X>27262.76</X>
+              <Y>4476.656</Y>
             </item>
           </items>
         </chunk>
@@ -36,7 +36,7 @@
             <item name="Max" type_name="gh_double" type_code="6">1</item>
             <item name="Min" type_name="gh_double" type_code="6">0</item>
             <item name="SnapCount" type_name="gh_int32" type_code="3">0</item>
-            <item name="Value" type_name="gh_double" type_code="6">0.1952054</item>
+            <item name="Value" type_name="gh_double" type_code="6">1</item>
           </items>
         </chunk>
       </chunks>

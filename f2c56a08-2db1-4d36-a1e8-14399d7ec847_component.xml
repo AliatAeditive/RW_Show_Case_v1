@@ -17,14 +17,14 @@
         <chunk name="Attributes">
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-              <X>14268</X>
-              <Y>1670</Y>
+              <X>14249</X>
+              <Y>1693</Y>
               <W>195</W>
               <H>20</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-              <X>14268.51</X>
-              <Y>1670.728</Y>
+              <X>14249.98</X>
+              <Y>1693.426</Y>
             </item>
           </items>
         </chunk>
