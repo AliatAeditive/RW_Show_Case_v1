@@ -1,0 +1,107 @@
+<chunk name="Object" index="0">
+  <items count="3">
+    <item name="GUID" type_name="gh_guid" type_code="9">69206d47-f3b1-4dbc-a856-ed9e02132955</item>
+    <item name="Lib" type_name="gh_guid" type_code="9">713fc0cc-8d34-4024-96f8-1a1edc8e378a</item>
+    <item name="Name" type_name="gh_string" type_code="10">Wait - KUKA|prc</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="5">
+        <item name="Description" type_name="gh_string" type_code="10">Stops the robot for a time provided in seconds.</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">1da262af-f70e-4b46-922d-de4fd14ccf4b</item>
+        <item name="Name" type_name="gh_string" type_code="10">Wait - KUKA|prc</item>
+        <item name="NickName" type_name="gh_string" type_code="10">WAIT</item>
+      </items>
+      <chunks count="3">
+        <chunk name="Attributes">
+          <items count="2">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>12051</X>
+              <Y>-3303</Y>
+              <W>101</W>
+              <H>50</H>
+            </item>
+            <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+              <X>12101</X>
+              <Y>-3278</Y>
+            </item>
+          </items>
+        </chunk>
+        <chunk name="param_input" index="0">
+          <items count="7">
+            <item name="Description" type_name="gh_string" type_code="10">The robot will stop for a given time</item>
+            <item name="InstanceGuid" type_name="gh_guid" type_code="9">7b72294a-2133-4cb8-86ef-c208a07be901</item>
+            <item name="Name" type_name="gh_string" type_code="10">KUKA|prc Wait</item>
+            <item name="NickName" type_name="gh_string" type_code="10">WAIT</item>
+            <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">dbdc5f12-b168-4394-b4c4-2c64da298abd</item>
+            <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
+          </items>
+          <chunks count="2">
+            <chunk name="Attributes">
+              <items count="2">
+                <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                  <X>12053</X>
+                  <Y>-3301</Y>
+                  <W>33</W>
+                  <H>46</H>
+                </item>
+                <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                  <X>12071</X>
+                  <Y>-3278</Y>
+                </item>
+              </items>
+            </chunk>
+            <chunk name="PersistentData">
+              <items count="1">
+                <item name="Count" type_name="gh_int32" type_code="3">1</item>
+              </items>
+              <chunks count="1">
+                <chunk name="Branch" index="0">
+                  <items count="2">
+                    <item name="Count" type_name="gh_int32" type_code="3">1</item>
+                    <item name="Path" type_name="gh_string" type_code="10">{0}</item>
+                  </items>
+                  <chunks count="1">
+                    <chunk name="Item" index="0">
+                      <items count="1">
+                        <item name="number" type_name="gh_double" type_code="6">1</item>
+                      </items>
+                    </chunk>
+                  </chunks>
+                </chunk>
+              </chunks>
+            </chunk>
+          </chunks>
+        </chunk>
+        <chunk name="param_output" index="0">
+          <items count="6">
+            <item name="Description" type_name="gh_string" type_code="10">KUKA|prc Wait command.</item>
+            <item name="InstanceGuid" type_name="gh_guid" type_code="9">23730aac-9ffc-47fb-a19d-246f8453be31</item>
+            <item name="Name" type_name="gh_string" type_code="10">KUKA|prc Wait Command</item>
+            <item name="NickName" type_name="gh_string" type_code="10">CMD</item>
+            <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+            <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+          </items>
+          <chunks count="1">
+            <chunk name="Attributes">
+              <items count="2">
+                <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                  <X>12116</X>
+                  <Y>-3301</Y>
+                  <W>34</W>
+                  <H>46</H>
+                </item>
+                <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                  <X>12133</X>
+                  <Y>-3278</Y>
+                </item>
+              </items>
+            </chunk>
+          </chunks>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>

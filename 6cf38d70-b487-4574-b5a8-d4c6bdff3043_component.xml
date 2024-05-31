@@ -7,8 +7,8 @@
     <chunk name="Container">
       <items count="8">
         <item name="Description" type_name="gh_string" type_code="10">Contains a collection of three-dimensional axis-systems</item>
-        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">6cf38d70-b487-4574-b5a8-d4c6bdff3043</item>
+        <item name="Mapping" type_name="gh_int32" type_code="3">1</item>
         <item name="Name" type_name="gh_string" type_code="10">Plane</item>
         <item name="NickName" type_name="gh_string" type_code="10">Pln</item>
         <item name="Optional" type_name="gh_bool" type_code="1">false</item>
@@ -19,9 +19,9 @@
         <chunk name="Attributes">
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-              <X>1516</X>
+              <X>1497</X>
               <Y>799</Y>
-              <W>50</W>
+              <W>69</W>
               <H>24</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">

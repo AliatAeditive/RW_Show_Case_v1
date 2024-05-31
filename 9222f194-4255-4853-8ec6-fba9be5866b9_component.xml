@@ -18,13 +18,13 @@
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
               <X>14432</X>
-              <Y>1730</Y>
+              <Y>1785</Y>
               <W>185</W>
               <H>20</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
               <X>14432.14</X>
-              <Y>1730.503</Y>
+              <Y>1785.628</Y>
             </item>
           </items>
         </chunk>
