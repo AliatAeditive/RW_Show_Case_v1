@@ -20,9 +20,9 @@
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
               <X>11919</X>
-              <Y>-3106</Y>
+              <Y>-3088</Y>
               <W>129</W>
-              <H>80</H>
+              <H>44</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
               <X>11963</X>
@@ -55,13 +55,13 @@
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                       <X>11921</X>
-                      <Y>-3104</Y>
+                      <Y>-3086</Y>
                       <W>27</W>
-                      <H>38</H>
+                      <H>20</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                       <X>11936</X>
-                      <Y>-3085</Y>
+                      <Y>-3076</Y>
                     </item>
                   </items>
                 </chunk>
@@ -85,11 +85,11 @@
                       <X>11921</X>
                       <Y>-3066</Y>
                       <W>27</W>
-                      <H>38</H>
+                      <H>20</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                       <X>11936</X>
-                      <Y>-3047</Y>
+                      <Y>-3056</Y>
                     </item>
                   </items>
                 </chunk>
@@ -110,9 +110,9 @@
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                       <X>11978</X>
-                      <Y>-3104</Y>
+                      <Y>-3086</Y>
                       <W>68</W>
-                      <H>76</H>
+                      <H>40</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                       <X>12012</X>

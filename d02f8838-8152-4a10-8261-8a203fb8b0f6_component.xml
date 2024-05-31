@@ -20,9 +20,9 @@
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
               <X>11545</X>
-              <Y>-3631</Y>
+              <Y>-3613</Y>
               <W>129</W>
-              <H>80</H>
+              <H>44</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
               <X>11589</X>
@@ -55,13 +55,13 @@
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                       <X>11547</X>
-                      <Y>-3629</Y>
+                      <Y>-3611</Y>
                       <W>27</W>
-                      <H>38</H>
+                      <H>20</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                       <X>11562</X>
-                      <Y>-3610</Y>
+                      <Y>-3601</Y>
                     </item>
                   </items>
                 </chunk>
@@ -85,11 +85,11 @@
                       <X>11547</X>
                       <Y>-3591</Y>
                       <W>27</W>
-                      <H>38</H>
+                      <H>20</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                       <X>11562</X>
-                      <Y>-3572</Y>
+                      <Y>-3581</Y>
                     </item>
                   </items>
                 </chunk>
@@ -110,9 +110,9 @@
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                       <X>11604</X>
-                      <Y>-3629</Y>
+                      <Y>-3611</Y>
                       <W>68</W>
-                      <H>76</H>
+                      <H>40</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                       <X>11638</X>

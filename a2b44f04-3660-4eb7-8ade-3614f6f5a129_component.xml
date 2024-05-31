@@ -17,9 +17,9 @@
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
               <X>11194</X>
-              <Y>-3264</Y>
+              <Y>-3257</Y>
               <W>63</W>
-              <H>58</H>
+              <H>44</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
               <X>11226</X>
@@ -52,9 +52,9 @@
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                       <X>11196</X>
-                      <Y>-3262</Y>
+                      <Y>-3255</Y>
                       <W>15</W>
-                      <H>54</H>
+                      <H>40</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                       <X>11205</X>
@@ -71,7 +71,7 @@
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">9da0cd52-9590-4bfa-ae21-b3731fb6c402</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Branch 0</item>
-                <item name="NickName" type_name="gh_string" type_code="10">{0}</item>
+                <item name="NickName" type_name="gh_string" type_code="10">-</item>
                 <item name="Optional" type_name="gh_bool" type_code="1">false</item>
                 <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
               </items>
@@ -80,13 +80,13 @@
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                       <X>11241</X>
-                      <Y>-3262</Y>
+                      <Y>-3255</Y>
                       <W>14</W>
-                      <H>27</H>
+                      <H>20</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                       <X>11248</X>
-                      <Y>-3248.5</Y>
+                      <Y>-3245</Y>
                     </item>
                   </items>
                 </chunk>
@@ -99,7 +99,7 @@
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">d1c19047-60e4-434b-b20b-b513bfb1431c</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Branch 1</item>
-                <item name="NickName" type_name="gh_string" type_code="10">{1}</item>
+                <item name="NickName" type_name="gh_string" type_code="10">-</item>
                 <item name="Optional" type_name="gh_bool" type_code="1">false</item>
                 <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
               </items>
@@ -110,11 +110,11 @@
                       <X>11241</X>
                       <Y>-3235</Y>
                       <W>14</W>
-                      <H>27</H>
+                      <H>20</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                       <X>11248</X>
-                      <Y>-3221.5</Y>
+                      <Y>-3225</Y>
                     </item>
                   </items>
                 </chunk>

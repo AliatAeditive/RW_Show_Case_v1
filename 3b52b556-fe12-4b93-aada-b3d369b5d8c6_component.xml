@@ -17,9 +17,9 @@
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
               <X>6197</X>
-              <Y>-3347</Y>
+              <Y>-3346</Y>
               <W>65</W>
-              <H>45</H>
+              <H>44</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
               <X>6228</X>
@@ -42,13 +42,13 @@
               <items count="2">
                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                   <X>6199</X>
-                  <Y>-3345</Y>
+                  <Y>-3344</Y>
                   <W>14</W>
                   <H>20</H>
                 </item>
                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                   <X>6207.5</X>
-                  <Y>-3334.75</Y>
+                  <Y>-3334</Y>
                 </item>
               </items>
             </chunk>
@@ -69,13 +69,13 @@
               <items count="2">
                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                   <X>6199</X>
-                  <Y>-3325</Y>
+                  <Y>-3324</Y>
                   <W>14</W>
-                  <H>21</H>
+                  <H>20</H>
                 </item>
                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                   <X>6207.5</X>
-                  <Y>-3314.25</Y>
+                  <Y>-3314</Y>
                 </item>
               </items>
             </chunk>
@@ -115,13 +115,13 @@
               <items count="2">
                 <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                   <X>6243</X>
-                  <Y>-3345</Y>
+                  <Y>-3344</Y>
                   <W>17</W>
-                  <H>41</H>
+                  <H>40</H>
                 </item>
                 <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
                   <X>6251.5</X>
-                  <Y>-3324.5</Y>
+                  <Y>-3324</Y>
                 </item>
               </items>
             </chunk>

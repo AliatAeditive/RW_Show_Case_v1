@@ -34,7 +34,7 @@
             <item name="Name" type_name="gh_string" type_code="10">Value</item>
             <item name="NickName" type_name="gh_string" type_code="10">x</item>
             <item name="Optional" type_name="gh_bool" type_code="1">false</item>
-            <item name="Source" index="0" type_name="gh_guid" type_code="9">a10ab3c6-3c99-4911-9aa8-fddaeace4151</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">9fddb113-e6b7-4b27-9295-f5673d6067c5</item>
             <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="1">
