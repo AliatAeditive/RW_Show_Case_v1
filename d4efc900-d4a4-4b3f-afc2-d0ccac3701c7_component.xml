@@ -17,14 +17,14 @@
         <chunk name="Attributes">
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-              <X>9007</X>
-              <Y>-3283</Y>
+              <X>8994</X>
+              <Y>-3313</Y>
               <W>74</W>
               <H>64</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-              <X>9041</X>
-              <Y>-3251</Y>
+              <X>9028</X>
+              <Y>-3281</Y>
             </item>
           </items>
         </chunk>
@@ -54,14 +54,14 @@
                 <chunk name="Attributes">
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                      <X>9009</X>
-                      <Y>-3281</Y>
+                      <X>8996</X>
+                      <Y>-3311</Y>
                       <W>17</W>
                       <H>20</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                      <X>9019</X>
-                      <Y>-3271</Y>
+                      <X>9006</X>
+                      <Y>-3301</Y>
                     </item>
                   </items>
                 </chunk>
@@ -80,14 +80,14 @@
                 <chunk name="Attributes">
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                      <X>9009</X>
-                      <Y>-3261</Y>
+                      <X>8996</X>
+                      <Y>-3291</Y>
                       <W>17</W>
                       <H>20</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                      <X>9019</X>
-                      <Y>-3251</Y>
+                      <X>9006</X>
+                      <Y>-3281</Y>
                     </item>
                   </items>
                 </chunk>
@@ -126,14 +126,14 @@
                 <chunk name="Attributes">
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                      <X>9009</X>
-                      <Y>-3241</Y>
+                      <X>8996</X>
+                      <Y>-3271</Y>
                       <W>17</W>
                       <H>20</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                      <X>9019</X>
-                      <Y>-3231</Y>
+                      <X>9006</X>
+                      <Y>-3261</Y>
                     </item>
                   </items>
                 </chunk>
@@ -173,14 +173,14 @@
                 <chunk name="Attributes">
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                      <X>9056</X>
-                      <Y>-3281</Y>
+                      <X>9043</X>
+                      <Y>-3311</Y>
                       <W>23</W>
                       <H>30</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                      <X>9067.5</X>
-                      <Y>-3266</Y>
+                      <X>9054.5</X>
+                      <Y>-3296</Y>
                     </item>
                   </items>
                 </chunk>
@@ -200,14 +200,14 @@
                 <chunk name="Attributes">
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                      <X>9056</X>
-                      <Y>-3251</Y>
+                      <X>9043</X>
+                      <Y>-3281</Y>
                       <W>23</W>
                       <H>30</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                      <X>9067.5</X>
-                      <Y>-3236</Y>
+                      <X>9054.5</X>
+                      <Y>-3266</Y>
                     </item>
                   </items>
                 </chunk>

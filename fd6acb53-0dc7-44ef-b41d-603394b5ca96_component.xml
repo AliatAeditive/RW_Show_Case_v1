@@ -41,7 +41,7 @@
           </items>
           <chunks count="7">
             <chunk name="InputParam" index="0">
-              <items count="9">
+              <items count="10">
                 <item name="Access" type_name="gh_int32" type_code="3">2</item>
                 <item name="Description" type_name="gh_string" type_code="10">Data stream 1</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">3e3cc74a-11ff-487e-94aa-70462c87fc2c</item>
@@ -50,7 +50,8 @@
                 <item name="Name" type_name="gh_string" type_code="10">Data 1</item>
                 <item name="NickName" type_name="gh_string" type_code="10">D1</item>
                 <item name="Optional" type_name="gh_bool" type_code="1">true</item>
-                <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+                <item name="Source" index="0" type_name="gh_guid" type_code="9">b7ed72c6-7fe6-42ee-9aba-811a714b7253</item>
+                <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
               </items>
               <chunks count="1">
                 <chunk name="Attributes">
@@ -100,7 +101,7 @@
               </chunks>
             </chunk>
             <chunk name="InputParam" index="2">
-              <items count="10">
+              <items count="9">
                 <item name="Access" type_name="gh_int32" type_code="3">2</item>
                 <item name="Description" type_name="gh_string" type_code="10">Data stream 3</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">7050587b-cf9f-499f-9445-132c6dcfec54</item>
@@ -109,8 +110,7 @@
                 <item name="Name" type_name="gh_string" type_code="10">Data 3</item>
                 <item name="NickName" type_name="gh_string" type_code="10">D3</item>
                 <item name="Optional" type_name="gh_bool" type_code="1">true</item>
-                <item name="Source" index="0" type_name="gh_guid" type_code="9">b7ed72c6-7fe6-42ee-9aba-811a714b7253</item>
-                <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
+                <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
               </items>
               <chunks count="1">
                 <chunk name="Attributes">

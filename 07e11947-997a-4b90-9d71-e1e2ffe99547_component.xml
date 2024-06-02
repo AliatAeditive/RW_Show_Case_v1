@@ -16,14 +16,14 @@
         <chunk name="Attributes">
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-              <X>7927</X>
-              <Y>-3639</Y>
-              <W>63</W>
+              <X>7914</X>
+              <Y>-3669</Y>
+              <W>72</W>
               <H>44</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-              <X>7959</X>
-              <Y>-3617</Y>
+              <X>7946</X>
+              <Y>-3647</Y>
             </item>
           </items>
         </chunk>
@@ -51,14 +51,14 @@
                 <chunk name="Attributes">
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                      <X>7929</X>
-                      <Y>-3637</Y>
+                      <X>7916</X>
+                      <Y>-3667</Y>
                       <W>15</W>
                       <H>40</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                      <X>7938</X>
-                      <Y>-3617</Y>
+                      <X>7925</X>
+                      <Y>-3647</Y>
                     </item>
                   </items>
                 </chunk>
@@ -71,7 +71,7 @@
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">d19f3b0a-90d3-4c8b-bc0b-ca7d87c37412</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Branch 0</item>
-                <item name="NickName" type_name="gh_string" type_code="10">-</item>
+                <item name="NickName" type_name="gh_string" type_code="10">{0}</item>
                 <item name="Optional" type_name="gh_bool" type_code="1">false</item>
                 <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
               </items>
@@ -79,14 +79,14 @@
                 <chunk name="Attributes">
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                      <X>7974</X>
-                      <Y>-3637</Y>
-                      <W>14</W>
+                      <X>7961</X>
+                      <Y>-3667</Y>
+                      <W>23</W>
                       <H>20</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                      <X>7981</X>
-                      <Y>-3627</Y>
+                      <X>7972.5</X>
+                      <Y>-3657</Y>
                     </item>
                   </items>
                 </chunk>
@@ -99,7 +99,7 @@
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">5e46f300-3bd4-4095-9c79-d6f1d44226e3</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Branch 1</item>
-                <item name="NickName" type_name="gh_string" type_code="10">-</item>
+                <item name="NickName" type_name="gh_string" type_code="10">{1}</item>
                 <item name="Optional" type_name="gh_bool" type_code="1">false</item>
                 <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
               </items>
@@ -107,14 +107,14 @@
                 <chunk name="Attributes">
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                      <X>7974</X>
-                      <Y>-3617</Y>
-                      <W>14</W>
+                      <X>7961</X>
+                      <Y>-3647</Y>
+                      <W>23</W>
                       <H>20</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                      <X>7981</X>
-                      <Y>-3607</Y>
+                      <X>7972.5</X>
+                      <Y>-3637</Y>
                     </item>
                   </items>
                 </chunk>

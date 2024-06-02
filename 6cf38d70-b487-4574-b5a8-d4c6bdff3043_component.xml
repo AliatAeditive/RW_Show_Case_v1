@@ -5,8 +5,9 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="8">
+      <items count="9">
         <item name="Description" type_name="gh_string" type_code="10">Contains a collection of three-dimensional axis-systems</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">6cf38d70-b487-4574-b5a8-d4c6bdff3043</item>
         <item name="Mapping" type_name="gh_int32" type_code="3">1</item>
         <item name="Name" type_name="gh_string" type_code="10">Plane</item>

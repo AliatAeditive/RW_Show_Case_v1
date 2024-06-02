@@ -23,8 +23,8 @@ $OUT[63] = FALSE;</item>
         <chunk name="Attributes">
           <items count="5">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-              <X>12274</X>
-              <Y>-3710</Y>
+              <X>12262</X>
+              <Y>-3740</Y>
               <W>284</W>
               <H>185</H>
             </item>
@@ -32,8 +32,8 @@ $OUT[63] = FALSE;</item>
             <item name="MarginRight" type_name="gh_int32" type_code="3">0</item>
             <item name="MarginTop" type_name="gh_int32" type_code="3">0</item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-              <X>12274.91</X>
-              <Y>-3709.513</Y>
+              <X>12262.73</X>
+              <Y>-3739.409</Y>
             </item>
           </items>
         </chunk>
