@@ -15,7 +15,7 @@
         <item name="Settings" type_name="gh_bool" type_code="1">false</item>
         <item name="Settings.Optimization" type_name="gh_bool" type_code="1">false</item>
         <item name="Settings.Optimization.Easing" type_name="gh_double" type_code="6">0</item>
-        <item name="Settings.Optimization.Interpolation" type_name="gh_double" type_code="6">60</item>
+        <item name="Settings.Optimization.Interpolation" type_name="gh_double" type_code="6">70</item>
         <item name="Settings.Safe move" type_name="gh_int32" type_code="3">0</item>
         <item name="Settings.Spray parameters" type_name="gh_bool" type_code="1">false</item>
         <item name="Settings.Spray parameters.Accelerator valve" type_name="gh_double" type_code="6">1000</item>
@@ -35,7 +35,7 @@
               <X>5292</X>
               <Y>1375</Y>
               <W>296</W>
-              <H>738</H>
+              <H>726</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
               <X>5359</X>

@@ -17,7 +17,7 @@
 CPump = 2
 AirFlowA = 25
 AirFlowB = 0
-ACCPump = 30
+ACCPump = 55
 INTERRUPT ON
 $OUT[1] = TRUE
 $OUT[8] = TRUE
@@ -28,8 +28,8 @@ WAIT SEC 2</item>
         <chunk name="Attributes">
           <items count="5">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-              <X>12231</X>
-              <Y>-3485</Y>
+              <X>12219</X>
+              <Y>-3515</Y>
               <W>284</W>
               <H>185</H>
             </item>
@@ -37,8 +37,8 @@ WAIT SEC 2</item>
             <item name="MarginRight" type_name="gh_int32" type_code="3">0</item>
             <item name="MarginTop" type_name="gh_int32" type_code="3">0</item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-              <X>12231.89</X>
-              <Y>-3484.263</Y>
+              <X>12219.71</X>
+              <Y>-3514.159</Y>
             </item>
           </items>
         </chunk>

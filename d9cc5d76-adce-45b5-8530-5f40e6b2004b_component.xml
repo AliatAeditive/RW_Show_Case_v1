@@ -125,13 +125,14 @@
           </chunks>
         </chunk>
         <chunk name="param_input" index="2">
-          <items count="6">
+          <items count="7">
             <item name="Description" type_name="gh_string" type_code="10">Domain defining the limits of the external axis. for turntable this value is the angle of rotation in degree, for the linear axis this is the limits of linear axis in millimiters</item>
             <item name="InstanceGuid" type_name="gh_guid" type_code="9">37d20456-8772-438a-b45b-29cbc06df3aa</item>
             <item name="Name" type_name="gh_string" type_code="10">Z_Domain</item>
             <item name="NickName" type_name="gh_string" type_code="10">Z.</item>
             <item name="Optional" type_name="gh_bool" type_code="1">false</item>
-            <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">3e78fed2-ac21-44c5-b09d-0da9431444a9</item>
+            <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="2">
             <chunk name="Attributes">

@@ -176,13 +176,14 @@
           </chunks>
         </chunk>
         <chunk name="param_input" index="3">
-          <items count="6">
+          <items count="7">
             <item name="Description" type_name="gh_string" type_code="10">Maximum number of refinement of the grid in Z direction.</item>
             <item name="InstanceGuid" type_name="gh_guid" type_code="9">de3dfa6d-24aa-4e50-a8fe-9c91cac58450</item>
             <item name="Name" type_name="gh_string" type_code="10">Z_Resolution</item>
             <item name="NickName" type_name="gh_string" type_code="10">Z.R.</item>
             <item name="Optional" type_name="gh_bool" type_code="1">false</item>
-            <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">24207f37-3cec-4ac0-a01c-6680f1188d7a</item>
+            <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="2">
             <chunk name="Attributes">
@@ -228,7 +229,7 @@
             <item name="Name" type_name="gh_string" type_code="10">Singularity_Check</item>
             <item name="NickName" type_name="gh_string" type_code="10">S.C.</item>
             <item name="Optional" type_name="gh_bool" type_code="1">false</item>
-            <item name="Source" index="0" type_name="gh_guid" type_code="9">a524a571-5a22-4704-bef7-6d379d7c4514</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">55e5e31e-e22c-4d8b-9913-fc7b0265ffb6</item>
             <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="2">

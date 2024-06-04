@@ -186,7 +186,7 @@
             <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
             <item name="colorByVelocity" type_name="gh_bool" type_code="1">true</item>
             <item name="isInternalized" type_name="gh_bool" type_code="1">false</item>
-            <item name="showSpeed" type_name="gh_bool" type_code="1">false</item>
+            <item name="showSpeed" type_name="gh_bool" type_code="1">true</item>
             <item name="showStrips" type_name="gh_bool" type_code="1">false</item>
           </items>
           <chunks count="1">

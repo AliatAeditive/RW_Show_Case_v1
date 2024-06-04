@@ -14,7 +14,7 @@
         <item name="Name" type_name="gh_string" type_code="10">Profile marking</item>
         <item name="NickName" type_name="gh_string" type_code="10">BPM</item>
         <item name="Settings" type_name="gh_bool" type_code="1">false</item>
-        <item name="Settings.Marker valve delay." type_name="gh_double" type_code="6">25</item>
+        <item name="Settings.Marker valve delay." type_name="gh_double" type_code="6">100</item>
         <item name="Settings.Safe move" type_name="gh_int32" type_code="3">0</item>
       </items>
       <chunks count="11">
@@ -24,7 +24,7 @@
               <X>20829</X>
               <Y>5536</Y>
               <W>172</W>
-              <H>327</H>
+              <H>324</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
               <X>20900</X>

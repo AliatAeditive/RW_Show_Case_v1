@@ -10,7 +10,7 @@
         <item name="Description" type_name="gh_string" type_code="10">A wire relay object</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">e1383939-428d-4ade-bf38-0004b98cca11</item>
         <item name="Name" type_name="gh_string" type_code="10">Relay</item>
-        <item name="NickName" type_name="gh_string" type_code="10"></item>
+        <item name="NickName" type_name="gh_string" type_code="10">work feed</item>
         <item name="Optional" type_name="gh_bool" type_code="1">false</item>
         <item name="Source" index="0" type_name="gh_guid" type_code="9">26a795a9-0753-4488-b2c4-e7a0a73c5cb9</item>
         <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
@@ -19,9 +19,9 @@
         <chunk name="Attributes">
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-              <X>12971</X>
+              <X>12957</X>
               <Y>14333</Y>
-              <W>40</W>
+              <W>68</W>
               <H>16</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">

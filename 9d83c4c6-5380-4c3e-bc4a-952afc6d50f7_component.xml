@@ -5,8 +5,9 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="4">
+      <items count="5">
         <item name="Description" type_name="gh_string" type_code="10">Construct a point from {xyz} coordinates.</item>
+        <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">9d83c4c6-5380-4c3e-bc4a-952afc6d50f7</item>
         <item name="Name" type_name="gh_string" type_code="10">Construct Point</item>
         <item name="NickName" type_name="gh_string" type_code="10">Pt</item>

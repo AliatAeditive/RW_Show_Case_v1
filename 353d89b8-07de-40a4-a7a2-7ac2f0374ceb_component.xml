@@ -7,7 +7,7 @@
     <chunk name="Container">
       <items count="6">
         <item name="Description" type_name="gh_string" type_code="10">Numeric slider for single values</item>
-        <item name="InstanceGuid" type_name="gh_guid" type_code="9">b32f3d0a-dfa7-4383-b0e1-f158ebf4967b</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">353d89b8-07de-40a4-a7a2-7ac2f0374ceb</item>
         <item name="Name" type_name="gh_string" type_code="10">Number Slider</item>
         <item name="NickName" type_name="gh_string" type_code="10"></item>
         <item name="Optional" type_name="gh_bool" type_code="1">false</item>
@@ -17,26 +17,26 @@
         <chunk name="Attributes">
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-              <X>6106</X>
-              <Y>1771</Y>
-              <W>180</W>
+              <X>15169</X>
+              <Y>14767</Y>
+              <W>211</W>
               <H>20</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-              <X>6106.265</X>
-              <Y>1771.27</Y>
+              <X>15169.79</X>
+              <Y>14767.01</Y>
             </item>
           </items>
         </chunk>
         <chunk name="Slider">
           <items count="7">
-            <item name="Digits" type_name="gh_int32" type_code="3">3</item>
+            <item name="Digits" type_name="gh_int32" type_code="3">2</item>
             <item name="GripDisplay" type_name="gh_int32" type_code="3">1</item>
-            <item name="Interval" type_name="gh_int32" type_code="3">1</item>
-            <item name="Max" type_name="gh_double" type_code="6">10</item>
+            <item name="Interval" type_name="gh_int32" type_code="3">0</item>
+            <item name="Max" type_name="gh_double" type_code="6">1</item>
             <item name="Min" type_name="gh_double" type_code="6">0</item>
             <item name="SnapCount" type_name="gh_int32" type_code="3">0</item>
-            <item name="Value" type_name="gh_double" type_code="6">10</item>
+            <item name="Value" type_name="gh_double" type_code="6">0.4</item>
           </items>
         </chunk>
       </chunks>

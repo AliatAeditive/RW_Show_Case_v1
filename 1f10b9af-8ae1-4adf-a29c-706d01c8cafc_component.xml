@@ -22,9 +22,9 @@
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
               <X>12386</X>
-              <Y>9928</Y>
+              <Y>9926</Y>
               <W>69</W>
-              <H>20</H>
+              <H>24</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
               <X>12430.53</X>

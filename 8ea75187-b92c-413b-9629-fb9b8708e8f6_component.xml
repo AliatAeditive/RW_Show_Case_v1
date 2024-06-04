@@ -19,14 +19,14 @@
         <chunk name="Attributes">
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-              <X>28048</X>
-              <Y>4584</Y>
+              <X>28026</X>
+              <Y>4482</Y>
               <W>50</W>
-              <H>20</H>
+              <H>24</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-              <X>28073.48</X>
-              <Y>4594.267</Y>
+              <X>28051.67</X>
+              <Y>4494.863</Y>
             </item>
           </items>
         </chunk>
@@ -44,7 +44,7 @@
                 <chunk name="Item" index="0">
                   <items count="2">
                     <item name="null_string" type_name="gh_bool" type_code="1">false</item>
-                    <item name="string" type_name="gh_string" type_code="10">C:\Users\AliTorabi\AEDITIVE GmbH\Engineering Solutions - Documents\Kuka scripts\20240529 nos\rw\Print2\rotating paletter 3\R1_Program_04.src</item>
+                    <item name="string" type_name="gh_string" type_code="10">C:\Users\AliTorabi\AEDITIVE GmbH\Engineering Solutions - Documents\Kuka scripts\20240601_nos\normal\rs2\R1_Program_06.src</item>
                   </items>
                 </chunk>
               </chunks>

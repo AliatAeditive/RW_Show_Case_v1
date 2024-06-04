@@ -24,7 +24,7 @@
               <X>16595</X>
               <Y>14686</Y>
               <W>128</W>
-              <H>138</H>
+              <H>135</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
               <X>16672</X>
@@ -87,14 +87,13 @@
           </chunks>
         </chunk>
         <chunk name="param_input" index="2">
-          <items count="9">
+          <items count="8">
             <item name="Access" type_name="gh_int32" type_code="3">1</item>
             <item name="Description" type_name="gh_string" type_code="10">A face with set of constrains for smoothing operation</item>
             <item name="InstanceGuid" type_name="gh_guid" type_code="9">b5338f05-79cd-450d-866e-a4b2eea9ebc6</item>
             <item name="Name" type_name="gh_string" type_code="10">Smoothing Face</item>
             <item name="NickName" type_name="gh_string" type_code="10">SF</item>
             <item name="Optional" type_name="gh_bool" type_code="1">false</item>
-            <item name="ReverseData" type_name="gh_bool" type_code="1">true</item>
             <item name="Source" index="0" type_name="gh_guid" type_code="9">5441d0a2-6b86-46c9-bcc2-49742dc3b97b</item>
             <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
@@ -152,7 +151,7 @@
             <item name="Name" type_name="gh_string" type_code="10">Smoothing obstacle</item>
             <item name="NickName" type_name="gh_string" type_code="10">S.O.</item>
             <item name="Optional" type_name="gh_bool" type_code="1">true</item>
-            <item name="Source" index="0" type_name="gh_guid" type_code="9">fb9a633a-d20e-413b-849b-9f809d4d448f</item>
+            <item name="Source" index="0" type_name="gh_guid" type_code="9">649b94c7-28c0-49a8-b096-cd746cb9db70</item>
             <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
           </items>
           <chunks count="1">

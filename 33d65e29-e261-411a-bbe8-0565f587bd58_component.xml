@@ -6,10 +6,11 @@
   </items>
   <chunks count="1">
     <chunk name="Container">
-      <items count="7">
+      <items count="8">
         <item name="Description" type_name="gh_string" type_code="10">Robot target defined through a plane. The robot will in the most efficient manner to the provided plane.</item>
         <item name="Hidden" type_name="gh_bool" type_code="1">true</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">33d65e29-e261-411a-bbe8-0565f587bd58</item>
+        <item name="Locked" type_name="gh_bool" type_code="1">true</item>
         <item name="Name" type_name="gh_string" type_code="10">PTP Movement - KUKA|prc</item>
         <item name="NickName" type_name="gh_string" type_code="10">PTP MOVE</item>
         <item name="extaxenabled" type_name="gh_bool" type_code="1">false</item>
@@ -19,14 +20,14 @@
         <chunk name="Attributes">
           <items count="2">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-              <X>9717</X>
-              <Y>-3847</Y>
+              <X>9704</X>
+              <Y>-3867</Y>
               <W>201</W>
-              <H>83</H>
+              <H>64</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-              <X>9833</X>
-              <Y>-3805</Y>
+              <X>9820</X>
+              <Y>-3835</Y>
             </item>
           </items>
         </chunk>
@@ -41,9 +42,10 @@
           </items>
           <chunks count="4">
             <chunk name="InputParam" index="0">
-              <items count="9">
+              <items count="10">
                 <item name="Description" type_name="gh_string" type_code="10">Robot target defined as a plane</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">96e6ad79-440f-43de-819a-7281dcf5d542</item>
+                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Mapping" type_name="gh_int32" type_code="3">1</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Target as Plane</item>
@@ -56,23 +58,24 @@
                 <chunk name="Attributes">
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                      <X>9719</X>
-                      <Y>-3845</Y>
+                      <X>9706</X>
+                      <Y>-3865</Y>
                       <W>99</W>
-                      <H>26</H>
+                      <H>20</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                      <X>9778</X>
-                      <Y>-3831.833</Y>
+                      <X>9765</X>
+                      <Y>-3855</Y>
                     </item>
                   </items>
                 </chunk>
               </chunks>
             </chunk>
             <chunk name="InputParam" index="1">
-              <items count="8">
+              <items count="9">
                 <item name="Description" type_name="gh_string" type_code="10">Separate STATUS and TURN with an empty space. You can omit TURN and only provide a three binary numbers for STATUS. Status defines the robot's posture using three binary numbers, e.g. 010 or 110. Defaults to 010. Turn consists of 6 binary numbers for each axis, starting from A6-A1. A value of 0 signifies that an axis is &gt;=0. E.g. 010010</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">55410123-dc08-4722-b08b-a5e7d6b0d65b</item>
+                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Status / Turn</item>
                 <item name="NickName" type_name="gh_string" type_code="10">STATUS / TURN</item>
@@ -84,23 +87,24 @@
                 <chunk name="Attributes">
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                      <X>9719</X>
-                      <Y>-3819</Y>
+                      <X>9706</X>
+                      <Y>-3845</Y>
                       <W>99</W>
-                      <H>26</H>
+                      <H>20</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                      <X>9778</X>
-                      <Y>-3805.5</Y>
+                      <X>9765</X>
+                      <Y>-3835</Y>
                     </item>
                   </items>
                 </chunk>
               </chunks>
             </chunk>
             <chunk name="InputParam" index="2">
-              <items count="7">
+              <items count="8">
                 <item name="Description" type_name="gh_string" type_code="10">Robot speed defined in percent</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">0f08f97c-8ed6-4f02-9d6f-d55ff7a97a86</item>
+                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Speed</item>
                 <item name="NickName" type_name="gh_string" type_code="10">VEL</item>
@@ -111,23 +115,24 @@
                 <chunk name="Attributes">
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                      <X>9719</X>
-                      <Y>-3793</Y>
+                      <X>9706</X>
+                      <Y>-3825</Y>
                       <W>99</W>
-                      <H>27</H>
+                      <H>20</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                      <X>9778</X>
-                      <Y>-3779.167</Y>
+                      <X>9765</X>
+                      <Y>-3815</Y>
                     </item>
                   </items>
                 </chunk>
               </chunks>
             </chunk>
             <chunk name="OutputParam" index="0">
-              <items count="6">
+              <items count="7">
                 <item name="Description" type_name="gh_string" type_code="10">KUKA|prc command containing a PTP movement</item>
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">4e2dc786-1192-4470-9698-6d34264f1805</item>
+                <item name="Locked" type_name="gh_bool" type_code="1">true</item>
                 <item name="Name" type_name="gh_string" type_code="10">KUKA|prc Command</item>
                 <item name="NickName" type_name="gh_string" type_code="10">COMMAND</item>
                 <item name="Optional" type_name="gh_bool" type_code="1">false</item>
@@ -137,14 +142,14 @@
                 <chunk name="Attributes">
                   <items count="2">
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-                      <X>9848</X>
-                      <Y>-3845</Y>
+                      <X>9835</X>
+                      <Y>-3865</Y>
                       <W>68</W>
-                      <H>79</H>
+                      <H>60</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                      <X>9882</X>
-                      <Y>-3805.5</Y>
+                      <X>9869</X>
+                      <Y>-3835</Y>
                     </item>
                   </items>
                 </chunk>
