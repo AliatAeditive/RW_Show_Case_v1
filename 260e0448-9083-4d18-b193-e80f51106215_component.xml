@@ -18,7 +18,7 @@
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
               <X>11177</X>
               <Y>-2680</Y>
-              <W>72</W>
+              <W>63</W>
               <H>58</H>
             </item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
@@ -71,7 +71,7 @@
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">ef476c6d-6cca-4e44-af0e-689a6c547ceb</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Branch 0</item>
-                <item name="NickName" type_name="gh_string" type_code="10">{0}</item>
+                <item name="NickName" type_name="gh_string" type_code="10">-</item>
                 <item name="Optional" type_name="gh_bool" type_code="1">false</item>
                 <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
               </items>
@@ -81,11 +81,11 @@
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                       <X>11224</X>
                       <Y>-2678</Y>
-                      <W>23</W>
+                      <W>14</W>
                       <H>27</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                      <X>11235.5</X>
+                      <X>11231</X>
                       <Y>-2664.5</Y>
                     </item>
                   </items>
@@ -99,7 +99,7 @@
                 <item name="InstanceGuid" type_name="gh_guid" type_code="9">cca4c202-077a-4fd3-9e08-81c8da9ee804</item>
                 <item name="Mutable" type_name="gh_bool" type_code="1">false</item>
                 <item name="Name" type_name="gh_string" type_code="10">Branch 1</item>
-                <item name="NickName" type_name="gh_string" type_code="10">{1}</item>
+                <item name="NickName" type_name="gh_string" type_code="10">-</item>
                 <item name="Optional" type_name="gh_bool" type_code="1">false</item>
                 <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
               </items>
@@ -109,11 +109,11 @@
                     <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
                       <X>11224</X>
                       <Y>-2651</Y>
-                      <W>23</W>
+                      <W>14</W>
                       <H>27</H>
                     </item>
                     <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-                      <X>11235.5</X>
+                      <X>11231</X>
                       <Y>-2637.5</Y>
                     </item>
                   </items>
