@@ -17,7 +17,7 @@
 CPump = 2
 AirFlowA = 25
 AirFlowB = 0
-ACCPump = 30
+ACCPump = 55
 INTERRUPT ON
 $OUT[1] = TRUE
 $OUT[8] = TRUE
